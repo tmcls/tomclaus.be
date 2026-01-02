@@ -12,10 +12,20 @@ remote_theme: "jekyll/minima"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-github-metadata
 
 minima:
   skin: classic
 
+nav_pages:
+  - about.md
+
+show_excerpts: true
 
 # https://github.com/jekyll/minima
