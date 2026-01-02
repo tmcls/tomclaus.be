@@ -8,6 +8,9 @@ author:
    name: Tom Claus
    email: mail@tomclaus.be
 
+url: 'https://tmcls.github.io/'   # your main domain
+baseurl: 'tomclaus.be/'           # if you're using custom domain keep this blank example: baseurl: ''
+
 remote_theme: "jekyll/minima"
 plugins:
   - jekyll-remote-theme
