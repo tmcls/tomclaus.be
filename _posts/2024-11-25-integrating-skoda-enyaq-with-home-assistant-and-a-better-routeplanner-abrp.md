@@ -22,14 +22,13 @@ To retrieve data, I use the new [MySkoda Integration](https://github.com/skodaco
 
 ![TOm's personal Home Assistant integration with a view on his Skoda Enyaq](/images/Screenshot-2024-11-26-at-08.52.49-2-1024x713.png)
 
-  
 Once the integration is set up, you can access all the statistics and settings available in the official Škoda app directly within your Home Assistant dashboard.
 
 ## **A Better Routeplanner (ABRP) Integration**
 
 If you’re familiar with A Better Routeplanner (ABRP), you know how essential it is to have accurate, live data from your car for efficient route planning. While you could use an OBD dongle to send this data, there’s also the option to connect ABRP directly to your car via an API.
 
-#### Generating an ABRP Token
+### Generating an ABRP Token
 
 In the ABRP app, you can create a Generic Token to link your ABRP account. This token is required for sending data from Home Assistant to ABRP. Once you have generated the token, you’ll need to configure Home Assistant to send data.
 

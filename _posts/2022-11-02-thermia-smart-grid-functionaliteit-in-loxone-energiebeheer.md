@@ -15,7 +15,7 @@ Indien je beschikt over een recente Thermia (Calibra) warmtepomp, dan kan je Sma
 
 - Je warmtepomp extra werk laten verrichten bij overtollige energie van je zonnepanelen. Hierbij zal je boiler wat warmer gestookt worden, alsook je vloerverwarming zal enkele graden warmer gezet worden.
 
-### Aansluitingen
+## Aansluitingen
 
 De warmtepomp beschikt 2 contacten die je kan sluiten via een Loxone relais. Hiervoor moet je wel een extra (UTP) kabel leggen tussen je warmtepomp en je Loxone installatie.
 
@@ -36,8 +36,6 @@ _Start- en stoptemperatuur niet instelbaar voor Altas en Calibra-warmtepomp._
 
 Als beide contacten open staan heeft je warmtepomp een normale werking. Echter wanneer je één of beide contacten sluit ga je het gedrag aanpassen waarbij je de volgende 4 functies kan krijgen.
 
-<figure>
-
 | VU/SG-1 (409) | SG-2 (408) | Functie |
 | --- | --- | --- |
 | 0 | 0 | **NORMAAL**   Normale werking |
@@ -45,17 +43,9 @@ Als beide contacten open staan heeft je warmtepomp een normale werking. Echter w
 | 1 | 0 | **EVU**   De functie blokkeert de werking van de compressor en het interne verwarmingselement. Andere componenten zoals circulatiepompen, directionele kleppen en externe bijverwarming worden nog steeds geregeld.   Communicatie-alarm van de omvormer en alarmen van de omvormer zijn uitgeschakeld tijdens EVU. |
 | 1 | 1 | **BOOST**   **\-** **Warmte** — Gewenste kamertemperatuur is ingesteld op boostwaarde (standaard 22°C).   \- **Buffertank** — Stelt de gewenste tanktemperatuur in op 55°, en indien ‘Allow immersion heater’ tijdens boost’ is ingeschakeld, wordt ook het interne verwarmingselement gebruikt.   \- **Kraanwater** — Stelt de kraanwatermodus in op Boost. Start- en stoptemperatuur is ingesteld om waarden te verhogen (standaard starttemperatuur 55°C en stoptemperatuur 65°C).   _Start- en stoptemperatuur niet instelbaar voor Altas en Calibra-warmtepomp._ |
 
-<figcaption>
+## Loxone Config — Energiebeheer
 
-Open circuit = 0 / Gesloten circuit = 1
-
-</figcaption>
-
-</figure>
-
-### Loxone Config — Energiebeheer
-
-#### Energiemanager (Overtollige PV energie gebruiken)
+### Energiemanager (Overtollige PV energie gebruiken)
 
 Via de [Energiemanager](https://www.loxone.com/nlnl/kb/energiemanager/) zullen we overtollige PV energie, die we normaal op het net zouden zetten, nuttig inzetten in ons huis. Bijvoorbeeld om de boiler van onze warmtepomp wat extra werkt te laten doen.
 
@@ -67,7 +57,7 @@ Via de [Lastmanager](https://www.loxone.com/nlnl/kb/lastmanager/) zullen we er
 
 Op deze manier kunnen we ons totaal vermogen dat we afnemen van onze energieleverancier beperken, alsook ons capaciteitstarief beperken.
 
-### Loxone Config
+## Loxone Config
 
 ![Afbeelding](/images/image.png)
 

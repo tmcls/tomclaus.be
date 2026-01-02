@@ -10,7 +10,7 @@ De wanden van het tuinhuis worden bekleed met thermisch gemodificeerd Ayous latt
 
 Momenteel heeft het Ayous hout nog een mooie warme, bruine tint die na verloop van tijd mooi egaal zal vergrijzen
 
-## Materiaal:
+## Materiaal
 
 - 46 latten Thermo Ayous 250cm lang - 6cm breed
 

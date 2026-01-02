@@ -10,7 +10,7 @@ Doorheen heel het huis maken we gebruik van zowel ledstrips, opbouwspots en inbo
 
 Deze week zijn we dan ook gestart met het ophangen en aansluiten van deze verschillende lampen.
 
-### Slaapkamer & Dressing[](https://bouw.tomclaus.be/images/IMG_4834.jpg)[](https://bouw.tomclaus.be/images/IMG_4775.jpg)[](https://bouw.tomclaus.be/images/IMG_4830.jpg)
+## Slaapkamer & Dressing[](https://bouw.tomclaus.be/images/IMG_4834.jpg)[](https://bouw.tomclaus.be/images/IMG_4775.jpg)[](https://bouw.tomclaus.be/images/IMG_4830.jpg)
 
 ![Afbeelding](/images/IMG_4834-1024x768.jpg)
 

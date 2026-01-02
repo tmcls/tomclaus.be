@@ -14,7 +14,7 @@ Ondertussen is er ook verder gewerkt aan de afwerking van de deur. Dit nam evenv
 
 In een [2de fase](https://bouw.tomclaus.be/wanden-ayous/) zal hier een Ayous afwerkinglat tegen komen (met 1cm spatie tussen de latten). Op die manier krijgen we dan een mooie combinatie tussen het Ayous hout en de zwarte achtergrond,
 
-## Materiaal:
+## Materiaal
 
 - 24x Agepan DWD black platen (250cm x 62,5cm, 16mm dik)
 

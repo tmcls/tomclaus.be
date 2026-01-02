@@ -19,17 +19,14 @@ Deze modellen van Thermia beschikken namelijk over de [Thermia Online (Genesis)
 
 In de warmtepomp instellingen en handleidingen zal je regelmatig de afkorting BMS terugvinden, dit staat voor Building Management System. Wat wil zeggen dat ze integreerbaar zijn met smart homes.
 
-### Aansluiten via Modbus RTU
+## Aansluiten via Modbus RTU
 
 > Om van start te gaan moet je uiteraard ook beschikken over de [Loxone Modbus Extension](https://shop.loxone.com/nlnl/modbus-extension.html), anders zal het niet mogelijk zijn deze aan te sluiten via Modbus RTU.
 
 1. Schakel je Loxone installatie en Thermia warmtepomp volledig uit.
-
-3. Sluit de Modbus kabel eerst aan op je Loxone Modbus Extension.
-
-5. Open het front-paneel van je warmtepomp
-
-7. Je Thermia warmtepompen heeft een groene 3-delige connector met de tekst BMS/MBe.
+2. Sluit de Modbus kabel eerst aan op je Loxone Modbus Extension.
+3. Open het front-paneel van je warmtepomp
+4. Je Thermia warmtepompen heeft een groene 3-delige connector met de tekst BMS/MBe.
 
 ![Afbeelding](/images/image-6.png)
 
@@ -55,7 +52,7 @@ In de _“display settings”_ van je Thermia moet je nu nog de _BMS (Buildin
 
 In Loxone kan je nu een Modbus apparaat toevoegen onder je Modbus Extension. Je Thermia Warmtepomp heeft standaard Modbus-Adres 1, waaronde rje de verschillende registers kan toevoegen.
 
-### Aansluiten via Modbus TCP/IP
+## Aansluiten via Modbus TCP/IP
 
 Het aansluitem van je Thermia warmtepomp via Modbus TCP gebeurd via de gewone Ethernet kabel.
 
@@ -68,18 +65,14 @@ In de _“display settings”_ van je warmtepomp moet je de _BMS_ optie acti
 Volg nu de volgende stappen in je Loxone Config:
 
 1. Maak je bij “Miniserver Communicatie” een nieuwe modbusserver aan.
-
-3. Geef deze de benaming “Thermia Modbus Server”.
-
-5. Vul het IP-Adres van je Thermia warmtepomp in bij “Adres” samen met poort 502
-
-7. Maak een Modbus Apparaat aan met de naam van je Thermia Warmtepomp
-
-9. Nu kan je de verschillende Modbus registers toevoegen in Loxone.
+2. Geef deze de benaming “Thermia Modbus Server”.
+3. Vul het IP-Adres van je Thermia warmtepomp in bij “Adres” samen met poort 502
+4. Maak een Modbus Apparaat aan met de naam van je Thermia Warmtepomp
+5. Nu kan je de verschillende Modbus registers toevoegen in Loxone.
 
 ![Afbeelding](/images/image-4.png)
 
-### Thermia’s Modbus Register
+## Thermia’s Modbus Register
 
 Na contact te hebben met support van Thermia Sweden heb ik van hun de volgende handleiding gekregen. Deze bevat alle informatie om de warmtepomp uit te lezen of aan te sturen.
 

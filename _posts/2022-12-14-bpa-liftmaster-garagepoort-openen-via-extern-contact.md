@@ -10,33 +10,33 @@ coverImage: "image-5.jpeg"
 
 Toen ze bij mij de BPA Lion [garagepoort zijn komen plaatsen](https://tomclaus.be/bouw/bouw-huis/de-garagepoort-en-voordeur-zijn-geplaatst/), was de documentatie zeer beknopt over het extern aansturen van de motor. Na enkele dagen research zijn we erachter gekomen hoe we deze toch kunnen aansturen via een extern contact, schakelaar of Loxone.
 
-### Aansluitingen BPA / Liftmaster
+## Aansluitingen BPA / Liftmaster
 
 De BPA en Liftmaster-modellen hebben de volgende aansluitingen op de motor.
 
 ![Afbeelding](/images/image-11-e1695204635438.png)
 
-**1 + 2 — Pulse Poort Open/Sluit/Stop**
+### 1 + 2 — Pulse Poort Open/Sluit/Stop
 
 Wanneer je contact `1` + `2` verbind door middel van een korte puls zal de poort openen of sluiten. Indien deze in al beweging is zal de poort stoppen.
 
-**0 + 2 — Pulse Lamp aan/uit**
+### 0 + 2 — Pulse Lamp aan/uit
 
 Door contact `0` \+ `2` te verbinden, zal je de lamp van de Liftmaster aan en uit schakelen.
 
-**2 + 3 — Lichtbarriere contact**
+### 2 + 3 — Lichtbarriere contact
 
 Is bedoeld voor een extern contact op aan te sluiten om te kijken of er een object aanwezig is tussen de poort. Hierop sluit je bijvoorbeeld een infraroodoog op aan. Indien de poort gaat sluiten, en je verbind contact `2` en `3`, zal deze stoppen en terug open.
 
-**3 + 4 — Deurcontact**
+### 3 + 4 — Deurcontact
 
 Hierop sluit je een deurcontact aan (indien er een deur in je poort zit). Indien je deze contacten verbind, zal de poort niet geopend kunnen worden.
 
-**6 + 7 — In beweging**
+### 6 + 7 — In beweging
 
 Hierop kan je een 24v zwaailamp aansluiten. Indien je dit wenst kan je hierop ook '_uitlezen_' of de poort in beweging is.
 
-### Sturen via Loxone
+## Sturen via Loxone
 
 Om je BPA / Liftmaster te sturen via Loxone, kan je gewoon een relaiscontact aansluiten (via UTP) op contact `1` en `2` van je BPA/Liftmaster. Via de Poort bouwsteen kan je dit relaiscontact aansluiten op de `Qtr` uitgang, om zo de poort te openen en/of sluiten.
 

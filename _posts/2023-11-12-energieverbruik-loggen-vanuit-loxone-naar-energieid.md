@@ -23,9 +23,9 @@ Via zo een webhook gaan we in dit geval data pushen naar hun. In mijn voorbeeld 
 
 1. Via de [Webhook App](https://app.energyid.eu/integrations/WebhookIn) binnen EnergieId kan je een nieuwe webhook aanmaken.
 
-3. Koppel deze correct aan je **dossier** en geef deze een **omschrijving** zoals "_Loxone_".
+2. Koppel deze correct aan je **dossier** en geef deze een **omschrijving** zoals "_Loxone_".
 
-5. Vervolgens krijg je een **Webhook URL**. Deze heb je later nodig om in Loxone in te geven.  
+3. Vervolgens krijg je een **Webhook URL**. Deze heb je later nodig om in Loxone in te geven.  
     Zo een webhook opgebouwd als volgt `https://hooks.energyid.eu/services/WebhookIn/XXXX-XXXX-XXXX/XXXXX`
 
 ## Loxone Setup
