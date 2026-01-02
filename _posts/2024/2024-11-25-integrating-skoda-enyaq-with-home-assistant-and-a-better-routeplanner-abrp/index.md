@@ -20,7 +20,7 @@ I own a Škoda Enyaq electric vehicle (EV), which I’ve integrated with my Home
 
 To retrieve data, I use the new [MySkoda Integration](https://github.com/skodaconnect/homeassistant-myskoda), as the older ŠKODA Connect Home Assistant integration has been deprecated. You can easily add this new repository to Home Assistant via [HACS](https://www.hacs.xyz/) (Home Assistant Community Store).
 
-![Tom's personal Home Assistant integration with a view on his Skoda Enyaq](images/Screenshot-2024-11-26-at-08.52.49-2-1024x713.png)
+![Tom's personal Home Assistant integration with a view on his Skoda Enyaq](/images/Screenshot-2024-11-26-at-08.52.49-2-1024x713.png)
 
   
 Once the integration is set up, you can access all the statistics and settings available in the official Škoda app directly within your Home Assistant dashboard.
@@ -33,7 +33,7 @@ If you’re familiar with A Better Routeplanner (ABRP), you know how essential i
 
 In the ABRP app, you can create a Generic Token to link your ABRP account. This token is required for sending data from Home Assistant to ABRP. Once you have generated the token, you’ll need to configure Home Assistant to send data.
 
-![ABRP Live Connections overview](images/Screenshot-2024-11-26-at-08.58.49.png)
+![ABRP Live Connections overview](/images/Screenshot-2024-11-26-at-08.58.49.png)
 
 #### Setting Up Home Assistant to Send Data to ABRP
 
@@ -87,10 +87,10 @@ actions:
 mode: single
 ```
 
-![Home Assistant Automation view](images/Screenshot-2024-11-26-at-09.12.20-1024x501.png)
+![Home Assistant Automation view](/images/Screenshot-2024-11-26-at-09.12.20-1024x501.png)
 
 #### Results
 
 This setup ensures that Home Assistant sends the latest available data from your Škoda Enyaq to ABRP every 10 seconds, providing live vehicle information for accurate and efficient route planning.
 
-![ABRP live connection data](images/Screenshot-2024-11-26-at-09.13.36.png)
+![ABRP live connection data](/images/Screenshot-2024-11-26-at-09.13.36.png)

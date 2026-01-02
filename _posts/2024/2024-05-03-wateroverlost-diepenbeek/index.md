@@ -15,12 +15,12 @@ De overstromingen brachten heel wat hinder met zich mee. Wegen werden afgesloten
 
 Om de omvang van de wateroverlast in [Diepenbeek](https://tomclaus.be/?s=diepenbeek) vast te leggen, heb ik met mijn DJI Mini 3 een aantal beelden gemaakt.
 
-![De Zigeuner-bus heeft geen last van wateroverlost](images/DJI_0083-1024x576.jpeg)
+![De Zigeuner-bus heeft geen last van wateroverlost](/images/DJI_0083-1024x576.jpeg)
 
-![Wateroverlost in Diepenbeek](images/DJI_0086-1024x576.jpeg)
+![Wateroverlost in Diepenbeek](/images/DJI_0086-1024x576.jpeg)
 
-![Molenstraat in Diepenbeek](images/DJI_0093-1024x576.jpeg)
+![Molenstraat in Diepenbeek](/images/DJI_0093-1024x576.jpeg)
 
-![Wachtbekken](images/DJI_0105-1024x576.jpeg)
+![Wachtbekken](/images/DJI_0105-1024x576.jpeg)
 
-![Overstromingen](images/DJI_0104-1024x576.jpeg)
+![Overstromingen](/images/DJI_0104-1024x576.jpeg)

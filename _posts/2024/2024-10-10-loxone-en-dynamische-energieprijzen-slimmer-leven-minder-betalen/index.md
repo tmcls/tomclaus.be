@@ -10,7 +10,7 @@ tags:
 coverImage: "PH-Header-Blog-Strompreis-Spitze.jpg.webp"
 ---
 
-![EnergieID Prijs inzichten over je dynamische energieprijzen](images/Screenshot-2024-10-11-at-14.42.59.png)
+![EnergieID Prijs inzichten over je dynamische energieprijzen](/images/Screenshot-2024-10-11-at-14.42.59.png)
 
 ### **Weet jij hoe je met een slim huis flink wat geld kunt besparen op je energiekosten?**
 
@@ -30,6 +30,6 @@ Maar Loxone kan ook je apparaten automatisch aanpassen of inschakelen aan de laa
 
 Ikzelf stuur op deze manier [meerdere laadpalen en een warmtepomp](https://tomclaus.be/energy-management/) aan voor een zo goedkoop mogelijk energieverbruik zonder te moeten inboeten op comfort.
 
-![](images/PH-Blog-Header-Release-Spot-Price-Optimizer-1024x576-1.jpg)
+![](/images/PH-Blog-Header-Release-Spot-Price-Optimizer-1024x576-1.jpg)
 
 **Kortom, met Loxone en dynamische energieprijzen maak je je huis niet alleen slimmer, maar ook duurzamer en je leven goedkoper!**
