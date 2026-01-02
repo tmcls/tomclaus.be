@@ -42,7 +42,6 @@ Doordat we ook over twee elektische wagens beschikken (Skoda Enyaq iV 80 / Opel 
 
 ## Energie Management
 
-  
 Dankzij ESS-software kunnen we overtollige zonne-energie opslaan en inzetten wanneer dat nodig is. Zo wordt ons energieverbruik volledig zelfvoorzienend. Met eigen ontwikkelde softwarecomponenten zorgen we er bovendien voor dat het capaciteitstarief bij netafname tot een minimum beperkt blijft.
 
 Met Loxone optimaliseren we het gebruik van deze opgeslagen energie. Onze elektrische auto's worden bijvoorbeeld alleen geladen wanneer er voldoende zonne-energie is, en onze warmtepomp past zijn werking aan op basis van de beschikbare energie.
@@ -59,7 +58,6 @@ Hieronder kan je goed zien dat ons verbruik _(rode balkjes)_ in lijn ligt met he
 
 #### NodeRed + InfluxDB + Grafana
 
-  
 Ons energiesysteem beschikt over een geautomatiseerd dataloggingproces dat diepgaand inzicht biedt in het energieverbruik. Node-RED fungeert als datacollector en registreert in real-time alle relevante verbruiksgegevens. Deze data wordt opgeslagen in een tijdreeksdatabase (InfluxDB) en visueel weergegeven via Grafana.
 
 Dankzij deze gestructureerde aanpak kunnen we complexe verbruikspatronen identificeren en proactief optimalisaties doorvoeren om de energie-efficiëntie te verhogen. De Node-RED-flow is zo ontworpen dat ze de normale werking van het systeem niet beïnvloedt, maar enkel actief wordt bij wijzigingen of updates.
