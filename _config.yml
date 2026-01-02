@@ -1,3 +1,11 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+
+title: ZUPAH BV | Tom Claus
+description: We combineren diepgaande energy expertise met sterke IT-kennis om bedrijven te helpen technologie- en energie-uitdagingen om te zetten in duurzame groei.
+
+show_downloads: false
+
+
+# https://github.com/jekyll/minima
