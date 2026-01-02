@@ -12,10 +12,10 @@ Omdat we hier graag een bed tegen willen plaatsen, hebben we de afkasting doorge
 
 Tegen het geluid, is deze schacht gevuld met rotswol.
 
-![](images/IMG_4538-768x1024.jpg)
+![](/images/IMG_4538-768x1024.jpg)
 
-![](images/IMG_4541-1024x768.jpg)
+![](/images/IMG_4541-1024x768.jpg)
 
-![](images/IMG_4640-1024x768.jpg)
+![](/images/IMG_4640-1024x768.jpg)
 
-![](images/IMG_4641-1024x768.jpg)
+![](/images/IMG_4641-1024x768.jpg)

@@ -10,18 +10,18 @@ Vorige week zijn ze onze binnendeuren komen plaatsen. We hebben gekozen voor deÂ
 
 Afgelopen dagen zijn ze de deuren dan nog komen aflakken en afwerken. :-)
 
-![](images/IMG_4865-768x1024.jpg)
+![](/images/IMG_4865-768x1024.jpg)
 
-![](images/IMG_4886-768x1024.jpg)
+![](/images/IMG_4886-768x1024.jpg)
 
-![](images/IMG_4882-768x1024.jpg)
+![](/images/IMG_4882-768x1024.jpg)
 
-![](images/IMG_4932-1024x768.jpg)
+![](/images/IMG_4932-1024x768.jpg)
 
-![](images/IMG_4931-1024x768.jpg)
+![](/images/IMG_4931-1024x768.jpg)
 
-![](images/IMG_4944-768x1024.jpg)
+![](/images/IMG_4944-768x1024.jpg)
 
-![](images/IMG_4943-768x1024.jpg)
+![](/images/IMG_4943-768x1024.jpg)
 
-![](images/IMG_4942-768x1024.jpg)
+![](/images/IMG_4942-768x1024.jpg)

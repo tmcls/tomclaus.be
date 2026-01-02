@@ -30,22 +30,22 @@ Verder hebben we ook de volgende toestellen voorzien:
 
 De bovenkant van de keukenkasten gaan we nog afwerken met MDF om dit mooi strak met de deurtjes te laten vallen.
 
-![](images/IMG_4747-1024x768.jpg)
+![](/images/IMG_4747-1024x768.jpg)
 
-![](images/IMG_4749-1024x768.jpg)
+![](/images/IMG_4749-1024x768.jpg)
 
-![](images/IMG_4748-1024x768.jpg)
+![](/images/IMG_4748-1024x768.jpg)
 
-![](images/IMG_4750-1024x768.jpg)
+![](/images/IMG_4750-1024x768.jpg)
 
-![](images/IMG_4773-1024x768.jpg)
+![](/images/IMG_4773-1024x768.jpg)
 
-![](images/IMG_4777-1024x768.jpg)
+![](/images/IMG_4777-1024x768.jpg)
 
-![](images/IMG_4790-1-1024x768.jpg)
+![](/images/IMG_4790-1-1024x768.jpg)
 
-![](images/IMG_4789-1024x768.jpg)
+![](/images/IMG_4789-1024x768.jpg)
 
-![](images/IMG_4791-1024x768.jpg)
+![](/images/IMG_4791-1024x768.jpg)
 
-![](images/IMG_4928-1024x768.jpg)
+![](/images/IMG_4928-1024x768.jpg)

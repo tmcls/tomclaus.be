@@ -57,7 +57,7 @@ Andere voordelen van de Gira Dual Q is dat je via een contact ook het alarm op c
 
 Om de rookmelders met elkaar te verbinden moet je deze allemaal parallel verbinden zoals het schema in de handleiding:
 
-![](images/image-3.png)
+![](/images/image-3.png)
 
 Wanneer 1 rookmelder brand detecteert zal deze het contact tussen de 2 draden verbinden en zo het alarm van de andere rookmelders in werking zetten.
 
@@ -73,4 +73,4 @@ Indien je 1 rookmelders van het Gira Relais Contact voorziet kan je deze aanslui
 
 Een ongedocumenteerde feature is dat je op het 3de klemmetje van 12v spanning kan zetten. Op die manier is de rookmelder 24/7 van spanning voorzien. Dit is wel aangewezen indien je de rookmelder ook voor inbraakalarm gaat gebruiken.
 
-![](images/image-2.png)
+![](/images/image-2.png)

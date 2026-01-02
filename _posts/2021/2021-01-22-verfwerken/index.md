@@ -18,7 +18,7 @@ De badkamer en toiletten worden dan afgewerkt in [Sigma Façade Coat Matt - RAL
 
 Alle overige ruimtes worden afgewerkt in [Sigma Sigmatex Superlatex Matt - RAL 9010](https://www.deverfwebshop.be/nl/sigmatex-superlatex-matt-ral-9010.html).
 
-![](images/IMG_4927-1024x768.jpg)
+![](/images/IMG_4927-1024x768.jpg)
 
 _Veel foto’s vallen hier helaas niet van te maken, buiten dat je telkens een wit vlak zou zien._
 
@@ -30,4 +30,4 @@ In onze keuken komt nog een magneetmuur. Welke we eerst moeten verven met [Magp
 
 Op ons toilet beneden werk ik aan een projectje waarbij we hetzelfde motief gaan toepassen als bij ons tuinhuis. Een zwarte wand met houten Ayous latjes. Hiervoor hebben we dan ook de eerste verfwerken gedaan en de muur in het mat zwart geschilderd.
 
-![](images/IMG_4842-768x1024.jpg)
+![](/images/IMG_4842-768x1024.jpg)

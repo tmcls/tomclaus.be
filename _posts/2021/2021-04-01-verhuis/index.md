@@ -1,5 +1,5 @@
 ---
-title: "Verhuis 🍾"
+title: "Verhuis !"
 date: 2021-04-01
 categories: 
   - "bouw-huis"
@@ -12,10 +12,10 @@ We hadden de afgelopen week al enkele spullen ingepakt die we niet meer gingen g
 
 De komende dagen gaan we de spullen nog een finale plek geven en als slot krijgen jullie nog een mooie fotoreportage van het afgewerkte en ingerichte huis.
 
-![](images/IMG_5117-1024x768.jpg)
+![](/images/IMG_5117-1024x768.jpg)
 
-![](images/IMG_5118-1024x768.jpg)
+![](/images/IMG_5118-1024x768.jpg)
 
-![](images/IMG_5119-1024x768.jpg)
+![](/images/IMG_5119-1024x768.jpg)
 
-![](images/IMG_9631-768x1024.jpg)
+![](/images/IMG_9631-768x1024.jpg)

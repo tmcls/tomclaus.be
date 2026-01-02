@@ -10,14 +10,14 @@ Ondertussen zitten we in een fase dat alles wat door elkaar loopt. Want naast al
 
 Enkel de spiegel ontbreekt nog, alsook enkel accessoires zoals kapstokken en onze handdoekhouder.
 
-![](images/IMG_4920-1024x768.jpg)
+![](/images/IMG_4920-1024x768.jpg)
 
-![](images/IMG_4940-768x1024.jpg)
+![](/images/IMG_4940-768x1024.jpg)
 
-![](images/IMG_4926-1024x768.jpg)
+![](/images/IMG_4926-1024x768.jpg)
 
-![](images/IMG_4925-1024x768.jpg)
+![](/images/IMG_4925-1024x768.jpg)
 
-![](images/IMG_4923-1024x768.jpg)
+![](/images/IMG_4923-1024x768.jpg)
 
-![](images/IMG_4922-1024x768.jpg)
+![](/images/IMG_4922-1024x768.jpg)

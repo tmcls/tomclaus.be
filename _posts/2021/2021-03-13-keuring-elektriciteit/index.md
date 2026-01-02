@@ -16,4 +16,4 @@ Een hele klus die 3u in beslag na. Maar gelukkig waren er geen fouten en zijn we
 
 Mijn keuring is uitgevoerd volgens het oude AREI _(van voor juni 2020)_. Toekomstige installaties zullen gekeurd worden volgens [het nieuwe AREI](https://www.ocb.be/nieuws/35/Nieuw-AREI-2020.html), dat extra aandacht geeft aan brandveiligheid. Zo maak je best gebruik van [halogeenvrije kabels met een CPR-klasse Cca](https://www.zelektro.be/preflex-safe-voorbedrade-buis-16mm-ls0h-groen-draa.html), waar deze in bundel liggen zoals bij je elektriciteitskast, kabelgoten… Alsook moet ook je volledige laagspanningscircuit vermeld staan op je eendraadschema, dit inclusief rookmelders, brandalarm,…
 
-![](images/IMG_5032-1024x685.jpg)
+![](/images/IMG_5032-1024x685.jpg)

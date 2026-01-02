@@ -14,10 +14,10 @@ Na heel wat denkwerk namen we de radicale beslissing om de afvoer te verplaatsen
 
 **Het resultaat?** Een functioneel en stijlvol toilet waar we écht tevreden mee zijn. En wie weet, inspireren we jou met ons verhaal om ook creatief aan de slag te gaan met je eigen toiletruimte!
 
-![](images/IMG_0338-768x1024.jpg)
+![](/images/IMG_0338-768x1024.jpg)
 
-![](images/IMG_0483-1024x768.jpg)
+![](/images/IMG_0483-1024x768.jpg)
 
-![](images/IMG_0414-1024x768.jpg)
+![](/images/IMG_0414-1024x768.jpg)
 
-![](images/IMG_0491-768x1024.jpg)
+![](/images/IMG_0491-768x1024.jpg)

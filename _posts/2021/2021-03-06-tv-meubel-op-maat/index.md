@@ -10,8 +10,8 @@ In onze leefruimte hebben we een nis voorzien van 40cm diep en 3m50 breed. In de
 
 Nu hebben we de gok gewaagd dit zelf te maken door het verzagen van [IKEA BESTÅ kasten](https://www.ikea.com/nl/nl/cat/besta-opbergsysteem-46053/) zodat dit perfect past tussen onze muur. Dit is het resultaat geworden:
 
-![](images/IMG_4971-1-1024x768.jpg)
+![](/images/IMG_4971-1-1024x768.jpg)
 
-![](images/IMG_4972-1024x768.jpg)
+![](/images/IMG_4972-1024x768.jpg)
 
-![](images/IMG_4970-1024x768.jpg)
+![](/images/IMG_4970-1024x768.jpg)

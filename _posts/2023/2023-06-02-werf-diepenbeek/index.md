@@ -9,6 +9,6 @@ tags:
 coverImage: "DJI_0019-1024x576-1.webp"
 ---
 
-![](images/DJI_0019-1024x576.jpeg)
+![](/images/DJI_0019-1024x576.jpeg)
 
-![](images/DJI_0014-1024x576.jpeg)
+![](/images/DJI_0014-1024x576.jpeg)

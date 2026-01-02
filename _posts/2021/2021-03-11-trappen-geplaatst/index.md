@@ -20,8 +20,8 @@ Nu de trap wat aangepast was, heeft de schrijnwerker onze trap de afgelopen week
 
 Als volgende stap gaan we nog op zoek naar een bijhorende trapleuning, alsook zal de stucadoor nog eens langskomen om bij te pleisteren tot tegen de trap.
 
-![](images/IMG_5020-768x1024.jpg)
+![](/images/IMG_5020-768x1024.jpg)
 
-![](images/IMG_5013-768x1024.jpg)
+![](/images/IMG_5013-768x1024.jpg)
 
-![](images/IMG_5111-768x1024.jpg)
+![](/images/IMG_5111-768x1024.jpg)

@@ -29,16 +29,16 @@ Voor onze wasplaats was dit al snel een besparing van € 200.
 
 _(Door de huidige Corona maatregelen, zit een bezoekje aan IKEA Nederland er echter nog niet in en moeten we nog even wachten op de deurtjes.)_
 
-![](images/IMG_4753-1024x768.jpg)
+![](/images/IMG_4753-1024x768.jpg)
 
-![](images/IMG_4759-1024x768.jpg)
+![](/images/IMG_4759-1024x768.jpg)
 
-![](images/IMG_4758-1024x768.jpg)
+![](/images/IMG_4758-1024x768.jpg)
 
-![](images/IMG_4824-1024x768.jpg)
+![](/images/IMG_4824-1024x768.jpg)
 
-![](images/IMG_4823-1024x768.jpg)
+![](/images/IMG_4823-1024x768.jpg)
 
-![](images/IMG_4760-1024x768.jpg)
+![](/images/IMG_4760-1024x768.jpg)
 
 ↳ Lees verder in [Deel 2](https://tomclaus.be/bouw/bouw-huis/inrichten-wasplaats-deel-2-2/) hoe we onze wasplaats verder inrichten.

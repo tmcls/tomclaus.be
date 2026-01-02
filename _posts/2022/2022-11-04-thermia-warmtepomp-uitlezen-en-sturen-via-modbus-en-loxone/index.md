@@ -31,7 +31,7 @@ In de warmtepomp instellingen en handleidingen zal je regelmatig de afkorting BM
 
 7. Je Thermia warmtepompen heeft een groene 3-delige connector met de tekst BMS/MBe.
 
-![](images/image-6.png)
+![](/images/image-6.png)
 
 1. Sluit de kabel aan op de MBe connector
 
@@ -77,7 +77,7 @@ Volg nu de volgende stappen in je Loxone Config:
 
 9. Nu kan je de verschillende Modbus registers toevoegen in Loxone.
 
-![](images/image-4.png)
+![](/images/image-4.png)
 
 ### Thermia’s Modbus Register
 
@@ -87,6 +87,6 @@ Na contact te hebben met support van Thermia Sweden heb ik van hun de volgende h
 
 **_In deze handleiding zal je tabellen terugvinden met de verschillende modbus registers. In deze tabellen zal je enkel een kolom Mega en Diplomat terugvinden. De kolom van Diplomat is ook geldig voor Atlas en Calibra warmtepompen._**
 
-![](images/image-5.png)
+![](/images/image-5.png)
 
 [](https://medium.com/@tomclaus?source=post_page-----b733433700a3--------------------------------)

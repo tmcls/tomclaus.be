@@ -21,7 +21,7 @@ De warmtepomp beschikt 2 contacten die je kan sluiten via een Loxone relais. Hie
 
 Deze contacten bevinden zich links op de BM-card van je warmtepomp en hebben de nummer 409 & 408.
 
-![](images/image-1.png)
+![](/images/image-1.png)
 
 **BOOST**  
 **Warmte** — Gewenste kamertemperatuur is ingesteld op boostwaarde (standaard 22°C).
@@ -69,7 +69,7 @@ Op deze manier kunnen we ons totaal vermogen dat we afnemen van onze energieleve
 
 ### Loxone Config
 
-![](images/image.png)
+![](/images/image.png)
 
 In het bovenstaande voorbeeld zie je dat bij overtollige Energie naar net (-8.0kW), de uitgang Q1 van de Energiemanager ingeschakeld zal worden. Op die manier activeren we de 2 relais op onze installatie en sluiten we dus de 2 contacten van de warmtepomp. Op deze manier zal de Thermia warmtepomp in Boost modus gaan.
 

@@ -14,7 +14,7 @@ Toen ze bij mij de BPA Lion [garagepoort zijn komen plaatsen](https://tomclaus
 
 De BPA en Liftmaster-modellen hebben de volgende aansluitingen op de motor.
 
-![](images/image-11-e1695204635438.png)
+![](/images/image-11-e1695204635438.png)
 
 **1 + 2 — Pulse Poort Open/Sluit/Stop**
 
@@ -44,16 +44,16 @@ Om je BPA / Liftmaster te sturen via Loxone, kan je gewoon een relaiscontact aan
 
 Sommige garagepoort kan je uitlezen om te weten te komen of je **poort open en toe** is. Mijn poort had deze functie niet dus wou ik met contacten werken om dit te weten te komen. Echter was dit moeilijk te monteren op mijn poort zelf en de muur. Daarom had ik besloten om **2 raamcontacten** op de rail zelf te monteren wat een perfect resultaat geeft.
 
-![Liftmaster garagepoort gaat open](images/image-8.jpeg)
+![Liftmaster garagepoort gaat open](/images/image-8.jpeg)
 
-![Liftmaster garagepoort contacten](images/image-7.jpeg)
+![Liftmaster garagepoort contacten](/images/image-7.jpeg)
 
-![](images/image-6.jpeg)
+![](/images/image-6.jpeg)
 
-![Liftmaster garagepoort contact open](images/image-5.jpeg)
+![Liftmaster garagepoort contact open](/images/image-5.jpeg)
 
-![Liftmaster garagepoort contact gesloten](images/image-4.jpeg)
+![Liftmaster garagepoort contact gesloten](/images/image-4.jpeg)
 
 Deze contacten kan je dan eenvoudig inlezen in de Loxone Poort bouwsteen op de ingangen `Dc` en `Do`.
 
-![](images/image-12.png)
+![](/images/image-12.png)
