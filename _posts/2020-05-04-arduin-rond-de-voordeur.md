@@ -8,6 +8,6 @@ coverImage: "IMG_2848.jpg"
 
 Vandaag heeft de aannemer de arduin rond onze toekomstige voordeur geplaatst. Het gaat hier om een strakke deuromlijsting van Belgische blauwsteen.
 
-![](images/IMG_2819-1024x768.jpg)
+![Afbeelding](/images/IMG_2819-1024x768.jpg)
 
-![](images/IMG_2848-1024x768.jpg)
+![Afbeelding](/images/IMG_2848-1024x768.jpg)

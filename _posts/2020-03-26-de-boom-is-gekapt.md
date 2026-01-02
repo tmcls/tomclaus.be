@@ -10,8 +10,8 @@ Zeer onverwacht is deze week de boom in het midden van ons perceel toch gekapt d
 
 Doordat deze boom nu weg is moesten we ook onze werfkast naar de zijkant van het perceel verhuizen.
 
-![](images/IMG_2110-1024x768.jpg)
+![Afbeelding](/images/IMG_2110-1024x768.jpg)
 
-![](images/IMG_2115-1024x768.jpg)
+![Afbeelding](/images/IMG_2115-1024x768.jpg)
 
-![](images/IMG_2419-1024x768.jpg)
+![Afbeelding](/images/IMG_2419-1024x768.jpg)

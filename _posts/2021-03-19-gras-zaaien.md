@@ -12,6 +12,6 @@ Voor dit werkje had ik een dag een [tuinfrees (16PK) gehuurd](https://verhuur.o
 
 Als grassoort hebben we gekozen voor [Barenbrug’s zelfherstellend sportgras](https://www.online-tuincentrum.be/Graszaad/Barenbrug-Graszaad/Graszaad-Barenbrug-RPR-Zelfherstellend-Sportgras-met-Yellow-Jacket-Water-Manager/).
 
-![](images/IMG_5067-1024x768.jpg)
+![Afbeelding](/images/IMG_5067-1024x768.jpg)
 
-![](images/IMG_9607-768x1024.jpg)
+![Afbeelding](/images/IMG_9607-768x1024.jpg)

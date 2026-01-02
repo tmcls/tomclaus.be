@@ -10,26 +10,26 @@ Gisteren is [Duratherm](https://www.duratherm.nl/), in opdracht van [Bart Meer
 
 De grootste uitdaging van deze boring was de machine in onze tuin krijgen. Met een zeer nipte doorgang aan elke zijde, moest deze langs onze gevel naar de achtertuin gereden worden.
 
-![](images/IMG_3277-1024x768.jpg)
+![Afbeelding](/images/IMG_3277-1024x768.jpg)
 
-![](images/IMG_3301-1024x768.jpg)
+![Afbeelding](/images/IMG_3301-1024x768.jpg)
 
-![](images/IMG_3303-1024x768.jpg)
+![Afbeelding](/images/IMG_3303-1024x768.jpg)
 
-![](images/IMG_3304-1024x768.jpg)
+![Afbeelding](/images/IMG_3304-1024x768.jpg)
 
-![](images/IMG_3311-1024x768.jpg)
+![Afbeelding](/images/IMG_3311-1024x768.jpg)
 
-![](images/IMG_3320-1024x768.jpg)
+![Afbeelding](/images/IMG_3320-1024x768.jpg)
 
-![](images/IMG_3370-768x1024.jpg)
+![Afbeelding](/images/IMG_3370-768x1024.jpg)
 
-![](images/IMG_3318-768x1024.jpg)
+![Afbeelding](/images/IMG_3318-768x1024.jpg)
 
-![](images/IMG_3321-1024x768.jpg)
+![Afbeelding](/images/IMG_3321-1024x768.jpg)
 
-![](images/IMG_3363-768x1024.jpg)
+![Afbeelding](/images/IMG_3363-768x1024.jpg)
 
-![](images/IMG_3372-1024x768.jpg)
+![Afbeelding](/images/IMG_3372-1024x768.jpg)
 
-![](images/IMG_3364-768x1024.jpg)
+![Afbeelding](/images/IMG_3364-768x1024.jpg)

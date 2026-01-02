@@ -22,12 +22,12 @@ De opbouw van het tuinhuis zal gebeuren in gewoon timmerhout en veel houtschroev
 
 ## De plannen
 
-![](images/th_plan_voorkant-1024x545.jpg)
+![Afbeelding](/images/th_plan_voorkant-1024x545.jpg)
 
-![](images/th_plan_achterkant-1024x552.jpg)
+![Afbeelding](/images/th_plan_achterkant-1024x552.jpg)
 
-![](images/th_plan_zijkant-1024x537.jpg)
+![Afbeelding](/images/th_plan_zijkant-1024x537.jpg)
 
-![](images/IMG_2094-1024x768.jpg)
+![Afbeelding](/images/IMG_2094-1024x768.jpg)
 
-![](images/IMG_2099-1024x768.jpg)
+![Afbeelding](/images/IMG_2099-1024x768.jpg)

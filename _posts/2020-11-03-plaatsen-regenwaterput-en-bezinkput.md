@@ -14,18 +14,18 @@ Doordat de putten aan de voorkant van het huis zitten, hebben we gekozen voor ee
 
 Nu kunnen we beginnen met het aansluiten van onze afvoeren. :-)
 
-![](images/IMG_4171-1024x768.jpg)
+![Afbeelding](/images/IMG_4171-1024x768.jpg)
 
-![](images/IMG_4172-1024x768.jpg)
+![Afbeelding](/images/IMG_4172-1024x768.jpg)
 
-![](images/IMG_4173-1-1024x768.jpg)
+![Afbeelding](/images/IMG_4173-1-1024x768.jpg)
 
-![](images/IMG_4174-1024x768.jpg)
+![Afbeelding](/images/IMG_4174-1024x768.jpg)
 
-![](images/IMG_4175-1024x768.jpg)
+![Afbeelding](/images/IMG_4175-1024x768.jpg)
 
-![](images/IMG_4176-1024x768.jpg)
+![Afbeelding](/images/IMG_4176-1024x768.jpg)
 
-![](images/IMG_4177-768x1024.jpg)
+![Afbeelding](/images/IMG_4177-768x1024.jpg)
 
-![](images/IMG_4179-1-768x1024.jpg)
+![Afbeelding](/images/IMG_4179-1-768x1024.jpg)

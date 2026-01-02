@@ -10,14 +10,14 @@ De [afvoeren in huis](https://tomclaus.be/bouw/bouw-huis/afvoer-plaatsen/) war
 
 Voor onze regenwaterput hebben we ook een extra terugslagklep en sifon geplaatst, want op straat is er nog geen gescheiden stelsel. En op deze manier vermijden we ongewenste ‘dingen’ en geuren in onze regenwaterput.
 
-![](images/afvoerplan-1024x724.jpg)
+![Afbeelding](/images/afvoerplan-1024x724.jpg)
 
-![](images/IMG_4197-1024x768.jpg)
+![Afbeelding](/images/IMG_4197-1024x768.jpg)
 
-![](images/IMG_4248-1024x768.jpg)
+![Afbeelding](/images/IMG_4248-1024x768.jpg)
 
-![](images/IMG_4242-768x1024.jpg)
+![Afbeelding](/images/IMG_4242-768x1024.jpg)
 
-![](images/IMG_4241-1024x768.jpg)
+![Afbeelding](/images/IMG_4241-1024x768.jpg)
 
-![](images/IMG_4234-1024x768.jpg)
+![Afbeelding](/images/IMG_4234-1024x768.jpg)

@@ -8,8 +8,8 @@ coverImage: "IMG_3045.jpg"
 
 Vandaag is onze Belgische blauwsteen voor de vensters en garagepoort geleverd en geplaatst door de aannemer.
 
-![](images/IMG_3043-1024x768.jpg)
+![Afbeelding](/images/IMG_3043-1024x768.jpg)
 
-![](images/IMG_3040-1024x768.jpg)
+![Afbeelding](/images/IMG_3040-1024x768.jpg)
 
-![](images/IMG_3045-1024x768.jpg)
+![Afbeelding](/images/IMG_3045-1024x768.jpg)

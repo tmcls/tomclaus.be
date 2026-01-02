@@ -12,14 +12,14 @@ Verder komen ze binnen enkele dagen ook onze zonnepanelen op het dak plaatsen. H
 
 Bye Bye [werfkast](https://tomclaus.be/bouw/bouw-huis/de-werfkast-is-aangesloten/)!
 
-![](images/IMG_3253-1024x768.jpg)
+![Afbeelding](/images/IMG_3253-1024x768.jpg)
 
-![](images/IMG_3354-1024x768.jpg)
+![Afbeelding](/images/IMG_3354-1024x768.jpg)
 
-![](images/IMG_3468-1024x768.jpg)
+![Afbeelding](/images/IMG_3468-1024x768.jpg)
 
-![](images/IMG_3469-768x1024.jpg)
+![Afbeelding](/images/IMG_3469-768x1024.jpg)
 
-![](images/IMG_3334-768x1024.jpg)
+![Afbeelding](/images/IMG_3334-768x1024.jpg)
 
-![](images/IMG_3337-768x1024.jpg)
+![Afbeelding](/images/IMG_3337-768x1024.jpg)

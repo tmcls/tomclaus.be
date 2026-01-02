@@ -28,12 +28,12 @@ Voor alle netwerk apparatuur heb ik gekozen voor Ubiquiti Unifi. Prijs-kwaliteit
 
 Het voordeel van deze setup is ook dat in geen extra voeding moet voorzien aan mijn access-points, maar dat deze stroom krijgen via de netwerkkabel die aangesloten is op mijn POE-switch.
 
-![](images/IMG_4468-768x1024.jpg)
+![Afbeelding](/images/IMG_4468-768x1024.jpg)
 
-![](images/IMG_4639-768x1024.jpg)
+![Afbeelding](/images/IMG_4639-768x1024.jpg)
 
-![](images/IMG_4833-1024x768.jpg)
+![Afbeelding](/images/IMG_4833-1024x768.jpg)
 
-![](images/IMG_4605-768x1024.jpg)
+![Afbeelding](/images/IMG_4605-768x1024.jpg)
 
-![](images/IMG_4606-1024x768.jpg)
+![Afbeelding](/images/IMG_4606-1024x768.jpg)

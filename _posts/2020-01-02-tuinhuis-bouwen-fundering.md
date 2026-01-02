@@ -28,12 +28,12 @@ Onder de fundering zijn enkele wachtbuizen voorzien:
 
 - 4,5m3 Beton C25/30 HK40 EE2 D22 S4 GB
 
-![](images/IMG_1967-1024x768.jpg)
+![Afbeelding](/images/IMG_1967-1024x768.jpg)
 
-![](images/IMG_2047-1024x768.jpg)
+![Afbeelding](/images/IMG_2047-1024x768.jpg)
 
-![](images/IMG_2049-1024x768.jpg)
+![Afbeelding](/images/IMG_2049-1024x768.jpg)
 
-![](images/IMG_2051-1024x768.jpg)
+![Afbeelding](/images/IMG_2051-1024x768.jpg)
 
-![](images/IMG_2063-1024x768.jpg)
+![Afbeelding](/images/IMG_2063-1024x768.jpg)

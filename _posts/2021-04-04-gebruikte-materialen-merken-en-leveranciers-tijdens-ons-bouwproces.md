@@ -18,7 +18,7 @@ Onze gevelstenen zijn een mengeling van 3 soorten:
 
 - 25% [Terca Maalbergse Recup Rijnvorm](https://www.wienerberger.be/gevel/productzoeker/recup-maalbergse-rv.html)
 
-![](images/IMG_3161-1024x768.jpg)
+![Afbeelding](/images/IMG_3161-1024x768.jpg)
 
 ## Buitenschrijnwerk
 
@@ -28,17 +28,17 @@ Onze gevelstenen zijn een mengeling van 3 soorten:
 
 - **Deur & Sectionaalpoort:** Maatwerk met naturel afromosia hout planchetten, afgewerkt met Rubiomonocoat Natural
 
-![](images/IMG_3884-1024x768.jpg)
+![Afbeelding](/images/IMG_3884-1024x768.jpg)
 
-![](images/IMG_3885-1024x768.jpg)
+![Afbeelding](/images/IMG_3885-1024x768.jpg)
 
-![](images/IMG_3887-1024x768.jpg)
+![Afbeelding](/images/IMG_3887-1024x768.jpg)
 
-![](images/IMG_4034.jpg)
+![Afbeelding](/images/IMG_4034.jpg)
 
-![](images/IMG_3943-1024x768.jpg)
+![Afbeelding](/images/IMG_3943-1024x768.jpg)
 
-![](images/IMG_4051-1024x768.jpg)
+![Afbeelding](/images/IMG_4051-1024x768.jpg)
 
 [](https://bouw.tomclaus.be/images/IMG_3884.jpg)
 
@@ -48,7 +48,7 @@ Onze gevelstenen zijn een mengeling van 3 soorten:
 
 - **Omvormer (6kW):** [Fronius Symo 6.0-3-M](https://www.fronius.com/en/photovoltaics/products/all-products/inverters/fronius-symo/fronius-symo-6-0-3-m)
 
-![](images/IMG_3635-1024x768.jpg)
+![Afbeelding](/images/IMG_3635-1024x768.jpg)
 
 ## Verwarming
 
@@ -64,7 +64,7 @@ Onze gevelstenen zijn een mengeling van 3 soorten:
 
 - **Roosters:** [Vent-Axia UniflexPlus+ RV 125 mm](https://www.vent-axia.nl/range/nl/uniflexplusrv)
 
-![](images/IMG_4411-1024x768.jpg)
+![Afbeelding](/images/IMG_4411-1024x768.jpg)
 
 ## Elektriciteit / Domotica
 
@@ -146,7 +146,7 @@ Onze gevelstenen zijn een mengeling van 3 soorten:
 
 - **Keukenkraan:** Paffoni Ringo RIN 185 NO Mat Zwart
 
-![](images/keuken-render-2-1024x680.png)
+![Afbeelding](/images/keuken-render-2-1024x680.png)
 
 ## Tussenkomende Partijen
 

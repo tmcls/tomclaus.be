@@ -8,4 +8,4 @@ coverImage: "IMG_4051-1.jpg"
 
 Vandaag is All-Port onze garagepoort en voordeur komen plaatsen. Volledig afgewerkt in Afromosia met een Rubio Natural beits
 
-![](images/IMG_4051-1-1024x768.jpg)
+![Afbeelding](/images/IMG_4051-1-1024x768.jpg)

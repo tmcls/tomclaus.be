@@ -28,8 +28,8 @@ De dak is ondertussen bekleed met de EPDM rubber.
 
 Gelukkig bestaat er Youtube om je uit te leggen hoe je [EPDM moet plaatsen](https://www.youtube.com/results?search_query=epdm+dakbedekking+leggen).:-)
 
-![](images/IMG_2137-1024x768.jpg)
+![Afbeelding](/images/IMG_2137-1024x768.jpg)
 
-![](images/IMG_2201-1024x768.jpg)
+![Afbeelding](/images/IMG_2201-1024x768.jpg)
 
-![](images/IMG_2202-1024x768.jpg)
+![Afbeelding](/images/IMG_2202-1024x768.jpg)

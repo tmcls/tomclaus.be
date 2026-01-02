@@ -24,7 +24,7 @@ Het dak is opgebouwd uit timmerhout met daarop OSB platen.
 
 <figure>
 
-![](images/th_plan_binnekant_achterkant-1024x724.jpg)
+![Afbeelding](/images/th_plan_binnekant_achterkant-1024x724.jpg)
 
 <figcaption>
 
@@ -36,7 +36,7 @@ Voorkant
 
 <figure>
 
-![](images/th_plan_binnenkant_zijkant-1024x537.jpg)
+![Afbeelding](/images/th_plan_binnenkant_zijkant-1024x537.jpg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ Zijkant
 
 <figure>
 
-![](images/th_plan_bovenkant-1024x626.jpg)
+![Afbeelding](/images/th_plan_bovenkant-1024x626.jpg)
 
 <figcaption>
 
@@ -58,8 +58,8 @@ Bovenkant
 
 </figure>
 
-![](images/IMG_2132-576x1024.jpg)
+![Afbeelding](/images/IMG_2132-576x1024.jpg)
 
-![](images/IMG_2133-1024x768.jpg)
+![Afbeelding](/images/IMG_2133-1024x768.jpg)
 
-![](images/IMG_2139-1024x768.jpg)
+![Afbeelding](/images/IMG_2139-1024x768.jpg)

@@ -12,12 +12,12 @@ Van zodra deze _(toch wel grote kast)_ tegen de muur hing, zijn we begonnen me
 
 Het was een hels werkje, maar dit is het tussentijds resultaat.
 
-![](images/IMG_3534-768x1024.jpg)
+![Afbeelding](/images/IMG_3534-768x1024.jpg)
 
-![](images/IMG_3547-1024x768.jpg)
+![Afbeelding](/images/IMG_3547-1024x768.jpg)
 
-![](images/IMG_3600-1024x768.jpg)
+![Afbeelding](/images/IMG_3600-1024x768.jpg)
 
-![](images/IMG_3831-1024x768.jpg)
+![Afbeelding](/images/IMG_3831-1024x768.jpg)
 
-![](images/IMG_3834-768x1024.jpg)
+![Afbeelding](/images/IMG_3834-768x1024.jpg)

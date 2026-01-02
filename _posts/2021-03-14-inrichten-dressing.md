@@ -10,8 +10,8 @@ Ook onze dressing kreeg de afgelopen dagen vorm. Ook hier hebben we gekozen voor
 
 Enkel de spiegel ontbreekt nog, maar deze plaatsen we de komende dagen.
 
-![](images/IMG_5055-1024x768.jpg)
+![Afbeelding](/images/IMG_5055-1024x768.jpg)
 
-![](images/IMG_5052-768x1024.jpg)
+![Afbeelding](/images/IMG_5052-768x1024.jpg)
 
-![](images/IMG_5053-768x1024.jpg)
+![Afbeelding](/images/IMG_5053-768x1024.jpg)

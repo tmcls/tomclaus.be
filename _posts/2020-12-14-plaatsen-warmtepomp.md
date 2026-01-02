@@ -10,4 +10,4 @@ Enkele maande geleden zijn ze bij ons al [de boringen](https://tomclaus.be/bouw
 
 We hebben gekozen voor de [Thermia Calibra Cool](https://thermia.com/products/ground-source-heat-pumps/thermia-calibra-cool/). Deze Scandinavisch warmtepomp kan ons huis via de vloerverwarming zowel verwarmen als koelen. Alsook beschikt deze ook over een ingebouwde boiler van 260l voor warm water en kan deze aangesloten worden op onze domotica via Modbus.
 
-![](images/IMG_4454-1024x768.jpg)
+![Afbeelding](/images/IMG_4454-1024x768.jpg)

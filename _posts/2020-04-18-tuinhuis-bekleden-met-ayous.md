@@ -18,6 +18,6 @@ Momenteel heeft het Ayous hout nog een mooie warme, bruine tint die na verloop v
 
 - 46 latten Thermo Ayous 250cm lang - 16,5 cm breed
 
-![](images/IMG_2880-768x1024.jpg)
+![Afbeelding](/images/IMG_2880-768x1024.jpg)
 
-![](images/IMG_2743-1024x768.jpg)
+![Afbeelding](/images/IMG_2743-1024x768.jpg)

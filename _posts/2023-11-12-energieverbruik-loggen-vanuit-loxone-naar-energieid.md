@@ -11,7 +11,7 @@ tags:
 coverImage: "verbruik-opvolgen-1024x556-1.webp"
 ---
 
-![](images/verbruik-opvolgen-1024x556.webp)
+![Afbeelding](/images/verbruik-opvolgen-1024x556.webp)
 
 Zelf gebruik ik [EnergieId](http://energyid.eu) voor het bijhouden en analyseren van mijn energieverbruik. Zo kan ik eenvoudig op lange termijn mijn verbruik opvolgen.
 
@@ -58,7 +58,7 @@ Vervolgens voegen we onder deze Virtuele Uitgang een **Virtuele Uitgang Commando
 
 Dit zou er als volgt moeten uitzien:
 
-![](images/Screenshot-2023-11-17-at-11.09.23-1024x722.png)
+![Afbeelding](/images/Screenshot-2023-11-17-at-11.09.23-1024x722.png)
 
 ### **Status bouwsteen**
 
@@ -68,7 +68,7 @@ Vervolgens gaan we een status bouwsteen instellen. Bij de **status tekst** vol j
 
 De overige velden mag je allemaal laten zoals het is.
 
-![](images/Screenshot-2023-11-17-at-11.08.49-1024x572.png)
+![Afbeelding](/images/Screenshot-2023-11-17-at-11.08.49-1024x572.png)
 
 ### Analoog geheugen
 
@@ -81,8 +81,8 @@ Aan de ingang `Set`, koppelen we de **Puls uur variabele**. Dese kan je vinden b
 Vervolgens hangen we de uitgang `V` van ons **Analoog geheugen** aan de ingang `I1` van onze **status bouwsteen**.  
 Aan de `Txt` uitgang van onze status bouwsteen hangen we dan weer onze webhook die we aangemaakt hebben.
 
-![](images/Screenshot-2023-11-17-at-11.07.03-1024x190.png)
+![Afbeelding](/images/Screenshot-2023-11-17-at-11.07.03-1024x190.png)
 
 Nu moet je enkel nog alles **opslaan op je Miniserver**. Van zodra deze herstart is en het klokslag XXu00 is, zal de webhook automatisch deze gegevens doorsturen naar EnergieId, Deze webhook zal ook automatisch de meter aanmaken bij hun indien deze nog niet bestaatdit moet je dit niet zelf doen.
 
-![](images/Screenshot-2023-11-15-at-14.43.55-1024x83.png)
+![Afbeelding](/images/Screenshot-2023-11-15-at-14.43.55-1024x83.png)

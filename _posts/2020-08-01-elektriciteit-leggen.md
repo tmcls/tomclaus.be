@@ -36,12 +36,12 @@ Even enkele cijfers van de gebruikte materialen _(updated 04/08)_:
 
 - 100m - Audio-Kabel
 
-![](images/IMG_3290-1024x768.jpg)
+![Afbeelding](/images/IMG_3290-1024x768.jpg)
 
-![](images/IMG_3412-768x1024.jpg)
+![Afbeelding](/images/IMG_3412-768x1024.jpg)
 
-![](images/IMG_3414-1024x768.jpg)
+![Afbeelding](/images/IMG_3414-1024x768.jpg)
 
-![](images/IMG_3424-768x1024.jpg)
+![Afbeelding](/images/IMG_3424-768x1024.jpg)
 
-![](images/IMG_3421-768x1024.jpg)
+![Afbeelding](/images/IMG_3421-768x1024.jpg)

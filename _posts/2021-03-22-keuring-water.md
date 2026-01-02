@@ -12,4 +12,4 @@ Die tweede keuring is pas nieuw en verplicht sinds dit jaar. Want nu keuring ze 
 
 Tijdens deze twee keruingen werden het alle aftakpunten en het het bijhorende water-plan en toestellen lijst volledig nagekeken. Zeker de aftak-punten waar een flexibel of tuinslang aan hangt werden extra gecontroleerd of deze wel een terugslagklep bevatten.
 
-![](images/keuring-water.png)
+![Afbeelding](/images/keuring-water.png)

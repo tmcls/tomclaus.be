@@ -12,18 +12,18 @@ Er komen dus op maat gemaakte collectoren op zolder waar alle toevoer- en afvoer
 
 Nu de collectoren en ventilatieunit geleverd zijn konden we ook deze plaatsen en afwerken.
 
-![](images/IMG_4158-1024x768.jpg)
+![Afbeelding](/images/IMG_4158-1024x768.jpg)
 
-![](images/IMG_4159-1024x768.jpg)
+![Afbeelding](/images/IMG_4159-1024x768.jpg)
 
-![](images/IMG_4162-1024x768.jpg)
+![Afbeelding](/images/IMG_4162-1024x768.jpg)
 
-![](images/IMG_4167-1024x768.jpg)
+![Afbeelding](/images/IMG_4167-1024x768.jpg)
 
-![](images/IMG_4183-1024x768.jpg)
+![Afbeelding](/images/IMG_4183-1024x768.jpg)
 
-![](images/IMG_4385-1024x768.jpg)
+![Afbeelding](/images/IMG_4385-1024x768.jpg)
 
-![](images/IMG_4411-1-1024x768.jpg)
+![Afbeelding](/images/IMG_4411-1-1024x768.jpg)
 
-![](images/IMG_4375-1024x768.jpg)
+![Afbeelding](/images/IMG_4375-1024x768.jpg)

@@ -10,8 +10,8 @@ Ondertussen is buiten de temperatuur gedaald tot onder het vriespunt. Hierdoor m
 
 Het nadeel nu is dat we welk 2x per dag naar de werf moeten on de opvangbak leeg te maken, maar van zodra ik deze ene verdieping lager kan zetten, kunnen we de bouwdroger aansluiten op de afvoer.
 
-![](images/IMG_4412-1024x768.jpg)
+![Afbeelding](/images/IMG_4412-1024x768.jpg)
 
-![](images/IMG_4413-1024x768.jpg)
+![Afbeelding](/images/IMG_4413-1024x768.jpg)
 
-![](images/IMG_4414-1024x768.jpg)
+![Afbeelding](/images/IMG_4414-1024x768.jpg)

@@ -28,14 +28,14 @@ In een [2de fase](https://bouw.tomclaus.be/wanden-ayous/) zal hier een Ayous a
 
 - 1 cilinderslot (voorzie dit zeker lang genoeg, keperwerk + plaat binnenkant + plaat buitenkant)
 
-![](images/IMG_2280-1024x768.jpg)
+![Afbeelding](/images/IMG_2280-1024x768.jpg)
 
-![](images/IMG_2302-1024x768.jpg)
+![Afbeelding](/images/IMG_2302-1024x768.jpg)
 
-![](images/IMG_2306-1024x768.jpg)
+![Afbeelding](/images/IMG_2306-1024x768.jpg)
 
-![](images/IMG_2205-1024x768.jpg)
+![Afbeelding](/images/IMG_2205-1024x768.jpg)
 
-![](images/IMG_2197-1024x768.jpg)
+![Afbeelding](/images/IMG_2197-1024x768.jpg)
 
-![](images/IMG_2198-1024x768.jpg)
+![Afbeelding](/images/IMG_2198-1024x768.jpg)

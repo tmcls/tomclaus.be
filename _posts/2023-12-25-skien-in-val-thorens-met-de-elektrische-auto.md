@@ -17,7 +17,7 @@ Voor onze eerste lange reis met een elektrische auto naar Val Thorens in Frankri
 
 _Via [deze link](https://abetterrouteplanner.com/premium/?referral=ZCARXKQR) kun je trouwens 30 dagen gratis van ABRP gebruikmaken, in plaats van de standaard 14 dagen._
 
-![Op reis met een elektrische auto naar Val Thorens](images/Screenshot-2023-12-18-at-14.07.51-1024x678.png)
+![Op reis met een elektrische auto naar Val Thorens](/images/Screenshot-2023-12-18-at-14.07.51-1024x678.png)
 
 ## **Heenreis**
 
@@ -25,15 +25,15 @@ Tijdens de heenreis navigeerde ik vooral met de ABRP-GPS. Deze gaf op basis van 
 
 De GPS voorspelde een totale rittijd van 12 uur, met 10 uur effectief rijtijd en 3 uur laadpauzes. Onze eerste twee stops waren bij Tesla-superchargers. In Wallonië zijn er helaas weinig laadpalen, en bij Tesla hebben ze te korte laadkabels, waardoor je soms dwars moest parkeren. Ondanks de hoge laadsnelheid verloor ik wel veel tijd met het opstarten van de sessie via de app. Een badgesysteem zou hier veel handiger zijn.
 
-![Elektrische auto laden bij Tesla Supercharger](images/IMG_0824-1-edited.jpg)
+![Elektrische auto laden bij Tesla Supercharger](/images/IMG_0824-1-edited.jpg)
 
 De rest van de laadstops waren bij Fastnet of Ionity. Hier hadden we weinig tot geen problemen en stonden we meestal zelfs alleen. We konden overal onze Shell Recharge-badge gebruiken, die in heel Europa werkt.
 
 Na exact 12 uur en 5 laadstops van gemiddeld 20-30 minuten kwamen we aan in Val Thorens. De laadstops voelden helemaal niet aan als tijdverlies; integendeel, we waren door de pauzes uitgerust toen we aankwamen.
 
-![Laden bij Fastned](images/IMG_0825-1024x768.jpg)
+![Laden bij Fastned](/images/IMG_0825-1024x768.jpg)
 
-![Laden bij Ionity](images/IMG_0826-1024x768.jpg)
+![Laden bij Ionity](/images/IMG_0826-1024x768.jpg)
 
 ## **Oplaadmogelijkheden in Val Thorens**
 
@@ -63,4 +63,4 @@ Onze eerste lange reis met een elektrische auto was een succes! Dankzij de goede
 
 **Ik hoop dat dit verslag je inspireert om ook op reis te gaan met je elektrische wagen!**
 
-![](images/IMG_0841-1024x768.jpg)
+![Afbeelding](/images/IMG_0841-1024x768.jpg)

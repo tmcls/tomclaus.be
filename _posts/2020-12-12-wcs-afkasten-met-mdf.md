@@ -10,8 +10,8 @@ Dit weekend hebben we ons bezig gehouden met het netjes afkasten van onze wc’s
 
 Nu enkel nog de ’nis’ op het toilet afwerken.
 
-![](images/IMG_4441-768x1024.jpg)
+![Afbeelding](/images/IMG_4441-768x1024.jpg)
 
-![](images/IMG_4597-768x1024.jpg)
+![Afbeelding](/images/IMG_4597-768x1024.jpg)
 
-![](images/IMG_4430-768x1024.jpg)
+![Afbeelding](/images/IMG_4430-768x1024.jpg)

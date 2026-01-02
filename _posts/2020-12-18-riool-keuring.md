@@ -10,4 +10,4 @@ Vandaag is onze riolering goedgekeurd. Hiervoor werden alle afwateringsplannen b
 
 Voor deze laatste test werd gebruik gemaakt van een rookmachine in de regenwaterput, waardoor bij elke dakafvoer snel gekeken kon worden of deze aangesloten was op de regenwaterput.
 
-![](images/IMG_4477.gif)
+![Afbeelding](/images/IMG_4477.gif)

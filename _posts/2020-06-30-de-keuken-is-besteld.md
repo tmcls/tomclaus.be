@@ -10,10 +10,10 @@ De Batibouw condities waren _(door Corona)_ verlengd tot eind juni. Ideaal voo
 
 Dit zou de keuken moeten worden die binnen enkele maanden geplaatst zal worden:
 
-![](images/keuken-render-1-1-1024x589.png)
+![Afbeelding](/images/keuken-render-1-1-1024x589.png)
 
-![](images/keuken-render-2-1024x680.png)
+![Afbeelding](/images/keuken-render-2-1024x680.png)
 
-![](images/keuken-render-3-1024x611.png)
+![Afbeelding](/images/keuken-render-3-1024x611.png)
 
-![](images/keuken-render-4-1024x591.png)
+![Afbeelding](/images/keuken-render-4-1024x591.png)

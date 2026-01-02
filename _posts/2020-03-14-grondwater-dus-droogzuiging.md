@@ -16,10 +16,10 @@ Na het opvragen van verschillende offertes blijkt dat er best wel veel prijsvers
 
 Op aanraden van de firma’s en onze veiligheidscoördinator hebben we ook maar een ABR-verzekering afgesloten. Omdat we een half-open bebouwing hebben, willen we geen enkel risico nemen.
 
-![](images/IMG_2268-1024x768.jpg)
+![Afbeelding](/images/IMG_2268-1024x768.jpg)
 
-![](images/IMG_2277-1024x768.jpg)
+![Afbeelding](/images/IMG_2277-1024x768.jpg)
 
-![](images/IMG_2319-1024x768.jpg)
+![Afbeelding](/images/IMG_2319-1024x768.jpg)
 
-![](images/IMG_2323-1024x768.jpg)
+![Afbeelding](/images/IMG_2323-1024x768.jpg)

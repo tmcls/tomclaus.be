@@ -16,51 +16,51 @@ Eerst zetten we twee stalen kolommen stevig in de beton en verankeren we een bal
 
 Om de kollomen stevig vast te zetten, hebben we gebruik gemaakt van 4 dikke draadstangen die via een houten mal in het beton bevestigd zijn. Door de draadstang, konden we met moeren de kolom uitregelen zodat deze perfect recht staat.
 
-![](images/IMG_8275-scaled.jpg)
+![Afbeelding](/images/IMG_8275-scaled.jpg)
 
-![](images/IMG_8282-scaled.jpg)
+![Afbeelding](/images/IMG_8282-scaled.jpg)
 
-![](images/IMG_8283-1024x768.jpg)
+![Afbeelding](/images/IMG_8283-1024x768.jpg)
 
-![](images/IMG_8285-scaled.jpg)
+![Afbeelding](/images/IMG_8285-scaled.jpg)
 
-![](images/IMG_8391-1024x769.jpg)
+![Afbeelding](/images/IMG_8391-1024x769.jpg)
 
-![](images/IMG_8385-scaled.jpg)
+![Afbeelding](/images/IMG_8385-scaled.jpg)
 
-![](images/IMG_8389-scaled.jpg)
+![Afbeelding](/images/IMG_8389-scaled.jpg)
 
 ## Dakstructuur en dakbedekking
 
 De dakconsstructie is gemakt van hout balken, die aflopen richting de afvoer. Hierop plaatste we OSB platen en een EPDM-rubber.
 
-![](images/IMG_8395.jpg)
+![Afbeelding](/images/IMG_8395.jpg)
 
-![](images/IMG_8398.jpg)
+![Afbeelding](/images/IMG_8398.jpg)
 
-![](images/IMG_8407.jpg)
+![Afbeelding](/images/IMG_8407.jpg)
 
-![](images/IMG_8416-1024x768.jpg)
+![Afbeelding](/images/IMG_8416-1024x768.jpg)
 
-![](images/IMG_8418-1024x768.jpg)
+![Afbeelding](/images/IMG_8418-1024x768.jpg)
 
-![](images/IMG_8421.jpg)
+![Afbeelding](/images/IMG_8421.jpg)
 
 ## Verlichting, screens en audio
 
 Na het plaatsen van alle elektra (stopcontacten, spotjes, bewegingsmelders), konden ook de op maat gemaakte screens geinstalleerd worden. Hier hebben we enkele weken op moeten wachten, want de opmetingen konden pas plaatsvinden nadat de constructie volledig klaar was.
 
-![](images/IMG_8446.jpg)
+![Afbeelding](/images/IMG_8446.jpg)
 
-![](images/IMG_8455.jpg)
+![Afbeelding](/images/IMG_8455.jpg)
 
-![](images/IMG_8444-1024x768.jpg)
+![Afbeelding](/images/IMG_8444-1024x768.jpg)
 
-![](images/IMG_8450.jpg)
+![Afbeelding](/images/IMG_8450.jpg)
 
-![](images/IMG_9104-1024x768.jpg)
+![Afbeelding](/images/IMG_9104-1024x768.jpg)
 
-![](images/IMG_9103-scaled.jpg)
+![Afbeelding](/images/IMG_9103-scaled.jpg)
 
 ## Afwerking
 
@@ -70,16 +70,16 @@ Verder moest onze muur nog afgewerkt worden. Deze was initieel niet mee gemest o
 
 Na het plaatsen van de latjes, hebben we nog aan aluminium plaat laten plooien voor de dakranden mee af te werken.
 
-![](images/IMG_9224-1024x768.jpg)
+![Afbeelding](/images/IMG_9224-1024x768.jpg)
 
-![](images/IMG_9222-1024x768.jpg)
+![Afbeelding](/images/IMG_9222-1024x768.jpg)
 
-![](images/IMG_9234.jpg)
+![Afbeelding](/images/IMG_9234.jpg)
 
-![](images/IMG_9228-1024x768.jpg)
+![Afbeelding](/images/IMG_9228-1024x768.jpg)
 
-![](images/IMG_9326.jpg)
+![Afbeelding](/images/IMG_9326.jpg)
 
-![](images/IMG_9436.jpg)
+![Afbeelding](/images/IMG_9436.jpg)
 
-![](images/IMG_2176-1024x768.jpg)
+![Afbeelding](/images/IMG_2176-1024x768.jpg)

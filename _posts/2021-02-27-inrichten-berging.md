@@ -10,8 +10,8 @@ De afgelopen weken trekken we een spurtje in het afwerken van verschillende ruim
 
 Zo is deze week onze berging volledig afgewerkt tot in de laatste details. Deze ruimte zal dienst doen als koude-berging, alsook hebben we hier een aanrecht zodat we hier eventueel een ijsmachine, broodbakmachine, etc kunnen zetten, zonder dat dit storend zal zijn in onze keuken.
 
-![](images/IMG_4859-1024x768.jpg)
+![Afbeelding](/images/IMG_4859-1024x768.jpg)
 
-![](images/IMG_4966-1024x768.jpg)
+![Afbeelding](/images/IMG_4966-1024x768.jpg)
 
-![](images/IMG_4967-768x1024.jpg)
+![Afbeelding](/images/IMG_4967-768x1024.jpg)
