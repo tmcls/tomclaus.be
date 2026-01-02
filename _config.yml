@@ -28,7 +28,7 @@ minima:
   skin: classic
 
   nav_pages:
-    - about.md
-    - zupah-be.md
+    - about-tom.md
+    - zupah-bv.md
 
   show_excerpts: true

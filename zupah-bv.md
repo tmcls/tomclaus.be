@@ -1,6 +1,7 @@
 ---
+layout: page
 title: "ZUPAH BV"
-date: 2025-12-03
+permalink: /about-zupah-bv/
 coverImage: "Tom-Claus-Small.jpg"
 ---
 

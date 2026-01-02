@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Tom
+permalink: /about-tom-claus/
 ---
 
 Hallo, ik ben Tom Claus!
