@@ -20,7 +20,7 @@ I own a Škoda Enyaq electric vehicle (EV), which I’ve integrated with my Home
 
 To retrieve data, I use the new [MySkoda Integration](https://github.com/skodaconnect/homeassistant-myskoda), as the older ŠKODA Connect Home Assistant integration has been deprecated. You can easily add this new repository to Home Assistant via [HACS](https://www.hacs.xyz/) (Home Assistant Community Store).
 
-![TOm's personal Home Assistant integration with a view on his Skoda Enyaq](images/Screenshot-2024-11-26-at-08.52.49-2-1024x713.png)
+![Tom's personal Home Assistant integration with a view on his Skoda Enyaq](images/Screenshot-2024-11-26-at-08.52.49-2-1024x713.png)
 
   
 Once the integration is set up, you can access all the statistics and settings available in the official Škoda app directly within your Home Assistant dashboard.
@@ -45,7 +45,7 @@ rest_command:
       method: POST
       content_type: "charset=utf-8; application/x-www-form-urlencoded"
       url: >      
-        {% set tlm = {
+         {% raw %} {% set tlm = {
         "utc":float(as_timestamp(states('sensor.skoda_last_changed'))),
         "soc":states('sensor.skoda_enyaq_soc'),
         "est_battery_range":float(states('sensor.skoda_range')),
@@ -58,7 +58,7 @@ rest_command:
         "capacity": 77,
         "soe": states('sensor.skoda_range') | float * 77 / 100,
         } -%}
-        https://api.iternio.com/1/tlm/send?api_key=32b2162f-9599-4647-8139-66e9f9528370&token=TOKEN&tlm={{tlm|to_json|urlencode}}
+        https://api.iternio.com/1/tlm/send?api_key=32b2162f-9599-4647-8139-66e9f9528370&token=TOKEN&tlm={{tlm|to_json|urlencode}}{% endraw %}
 ```
 
 Replace **`TOKEN`** with your ABRP personal token. The API key provided is the public key for ABRP.  
