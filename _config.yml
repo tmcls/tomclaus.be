@@ -20,12 +20,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
 
+# https://github.com/jekyll/minima
 minima:
   skin: classic
 
-nav_pages:
-  - about.md
+  nav_pages:
+    - about.md
+    - zupah-be.md
 
-show_excerpts: true
-
-# https://github.com/jekyll/minima
+  show_excerpts: true
