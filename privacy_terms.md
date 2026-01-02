@@ -1,6 +1,7 @@
 ---
-title: "Privacybeleid"
-date: 2024-07-16
+layout: page
+title: Privacybeleid
+permalink: /privacy-policy/
 ---
 
 ## Inleiding

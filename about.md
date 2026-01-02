@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hallo, ik ben Tom Claus!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Met 15 jaar ervaring in de IT-sector heb ik met **ZUPAH BV** een sterke reputatie opgebouwd in het opzetten en succesvol leiden van complexe webprojecten. Bij organisaties zoals [Mobile Vikings](https://mobilevikings.be/nl/?referral=fee40957ef), [Cake.app](https://ibsintelligence.com/ibsi-news/levenue-acquires-cake-secures-e8m-in-series-a-from-truffle-capital/) en [ACA Group](https://acagroup.be/nl/auteur/tom-claus/?utm_source=tomclaus&utm_medium=website&utm_campaign=about-page) heb ik mijn expertise in **projectmanagement, business development en leiderschap** verder verfijnd.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Naast mijn professionele focus werk ik ook aan projecten rond home automation en energy management, waarbij ik technologie inzet om efficiëntere en duurzamere oplossingen te creëren. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+Heb je vragen of opmerkingen, dan kan je [mij altijd contacteren](mailto:mail@tomclaus.be).

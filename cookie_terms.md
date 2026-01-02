@@ -1,6 +1,7 @@
 ---
-title: "Cookiebeleid"
-date: 2024-07-16
+layout: page
+title: Cookiebeleid
+permalink: /cookie-policy/
 ---
 
 ## **Inleiding**

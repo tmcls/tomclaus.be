@@ -1,6 +1,7 @@
 ---
-title: "Algemene voorwaarden"
-date: 2025-06-19
+layout: page
+title: Algemene voorwaarden
+permalink: /terms_and_conditions/
 ---
 
 ## 1\. Identiteit van de onderneming
