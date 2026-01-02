@@ -31,4 +31,6 @@ minima:
     - about-tom.md
     - zupah-bv.md
 
+  date_format: "%A %C %B %Y"
+
   show_excerpts: true
