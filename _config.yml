@@ -1,11 +1,11 @@
-title: Tom Claus
+title: Tom Claus | Blog
 description: > 
-  We combineren diepgaande energy expertise met sterke IT-kennis om 
+  Ik combineer diepgaande energy expertise met sterke IT-kennis om 
   bedrijven te helpen technologie- en energie-uitdagingen om te zetten 
   in duurzame groei.
 
 author:
-   name: Tom Claus | Blog
+   name: Tom Claus
    email: mail@tomclaus.be
 
 url: 'http://blog.tomclaus.be/'   # your main domain
@@ -20,9 +20,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
 
-
 exclude:
-  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
@@ -84,7 +82,6 @@ search:
 # For copy button on code
 enable_copy_code_button: true
 
-
 # By default, consuming the theme as a gem leaves mermaid disabled; it is opt-in
 mermaid:
   # Version of mermaid library
@@ -137,7 +134,7 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: 'Copyright &copy; 2021-2026 Tom Claus &amp; ZUPAH BV.'
+footer_content: 'Copyright &copy; 2021-2026 Tom Claus &amp; ZUPAH BV. <br /> <a href="/privacy-policy/">Privacybeleid</a> | <a href="/cookie-policy/">Cookiebeleid</a> | <a href="/terms-and-conditions/">Algemene voorwaarden</a> 
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

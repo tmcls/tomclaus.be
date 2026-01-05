@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Algemene voorwaarden
-permalink: /terms_and_conditions/
+permalink: /terms-and-conditions/
 parent: Terms & Conditions
 nav_exclude: true
 ---
