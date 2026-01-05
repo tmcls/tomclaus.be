@@ -9,9 +9,9 @@ author:
    email: mail@tomclaus.be
 
 url: 'http://blog.tomclaus.be/'   # your main domain
-baseurl: ''                   # if you're using custom domain keep this blank example: baseurl: ''
+baseurl: ''                       # if you're using custom domain keep this blank example: baseurl: ''
 
-remote_theme: "jekyll/minima"
+remote_theme: "just-the-docs/just-the-docs"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -22,6 +22,38 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-github-metadata
+
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Dockerfile
+  # theme test code
+  - fixtures/
+  - spec/
+  - tmp
+  - .rspec
 
 # https://github.com/jekyll/minima
 minima:
