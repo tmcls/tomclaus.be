@@ -49,6 +49,7 @@ exclude:
   - spec/
   - tmp
   - .rspec
+  - .markdownlint.yaml
 
 # Enable or disable the site search
 # Supports true (default) or false
