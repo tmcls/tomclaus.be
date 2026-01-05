@@ -1,4 +1,5 @@
 ---
-title: Terms & Conditions
-nav_order: 3
+title: Terms
+nav_exclude: true
+permalink: /terms
 ---
