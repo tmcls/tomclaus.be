@@ -4,6 +4,7 @@ date: 2020-03-01
 categories: 
   - "bouw-tuinhuis"
 coverImage: "IMG_2205.jpg"
+parent: Tuinhuis
 ---
 
 Ondertussen zijn de DWD platen tegen het keperwerk geplaatst. Deze dampopenplaat is tegen de regen, maar kan toch het vocht uit het tuinhuis te krijgen.

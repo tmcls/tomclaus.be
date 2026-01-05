@@ -4,11 +4,12 @@ date: 2020-02-15
 categories: 
   - "bouw-tuinhuis"
 coverImage: "IMG_2099.jpg"
+parent: Tuinhuis
 ---
 
 De opbouw van het tuinhuis zal gebeuren in gewoon timmerhout en veel houtschroeven. Deze constructie is geplaatst op een EPDM rubber zodat er later geen vocht kan komen aan het hout.
 
-## Materiaal:
+## Materiaal
 
 - 23x GND Timmerhout - 9,0cm x 6,3cm x 240cm (Verticale palen)
 

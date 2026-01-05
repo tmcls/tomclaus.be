@@ -4,6 +4,7 @@ date: 2020-01-02
 categories: 
   - "bouw-tuinhuis"
 coverImage: "IMG_2051.jpg"
+parent: Tuinhuis
 ---
 
 Alvorens we starten met de bouw van ons huis willen we nog even een tuinhuis plaatsen. Het tuinhuis zal ongeveer 4m x 3m groot zijn een afgewerkt worden met ayous hout voor een moderne look.
@@ -18,7 +19,7 @@ Onder de fundering zijn enkele wachtbuizen voorzien:
 
 - Afvoer - 80mm
 
-### Materiaal:
+## Materiaal
 
 - 40m2 Bouwfolie
 

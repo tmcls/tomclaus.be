@@ -4,6 +4,7 @@ date: 2020-04-18
 categories: 
   - "bouw-tuinhuis"
 coverImage: "IMG_2743.jpg"
+parent: Tuinhuis
 ---
 
 De wanden van het tuinhuis worden bekleed met thermisch gemodificeerd Ayous latten _(herkomst: Cameroen)_ van wisselende breedtes. Tussen deze latten met wisselende breedtes komt telkens een voeg van ongeveer 1cm, om zo een mooie schakering te krijgen tussen het hout en de zwarte DWD platen.

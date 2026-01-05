@@ -4,6 +4,7 @@ date: 2020-09-02
 categories: 
   - "bouw-tuinhuis"
 coverImage: "IMG_2880.jpg"
+parent: Tuinhuis
 ---
 
 Wat heeft dit tuinhuis van 4m x 3m in Ayous afwerking nu gekost? Hierbij een kort overzicht van de gemaakte kosten:

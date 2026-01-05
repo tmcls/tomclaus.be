@@ -4,6 +4,7 @@ date: 2020-02-22
 categories: 
   - "bouw-tuinhuis"
 coverImage: "IMG_2133.jpg"
+parent: Tuinhuis
 ---
 
 Het dak is opgebouwd uit timmerhout met daarop OSB platen.

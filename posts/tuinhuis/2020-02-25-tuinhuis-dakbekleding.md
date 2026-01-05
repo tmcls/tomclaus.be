@@ -4,11 +4,12 @@ date: 2020-02-25
 categories: 
   - "bouw-tuinhuis"
 coverImage: "IMG_2137.jpg"
+parent: Tuinhuis
 ---
 
 De dak is ondertussen bekleed met de EPDM rubber.
 
-## Materiaal:
+## Materiaal
 
 - 18m2 EPDM dakfolie BossCover 1,15mm
 
