@@ -1,4 +1,4 @@
 ---
-title: Posts
+title: Blog
 nav_order: 2
 ---

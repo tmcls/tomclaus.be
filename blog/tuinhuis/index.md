@@ -1,5 +1,5 @@
 ---
 title: Tuinhuis
 nav_order: 1
-parent: Posts
+parent: Blog
 ---
