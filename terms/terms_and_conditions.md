@@ -6,6 +6,8 @@ parent: Terms & Conditions
 nav_exclude: true
 ---
 
+# Algemene voorwaarden
+
 ## 1\. Identiteit van de onderneming
 
 **ZUPAH BV**  

@@ -6,6 +6,8 @@ parent: Terms & Conditions
 nav_exclude: true
 ---
 
+# Cookiebeleid
+
 ## **Inleiding**
 
 Dit Cookiebeleid ("Beleid") beschrijft hoe Tom Claus namens ZUPAH BV (0767.830.422) cookies en andere traceertechnologieën ("Cookies") gebruikt om informatie te verzamelen, te gebruiken en te delen wanneer u onze website bezoekt (hierna de "Website"). Dit Beleid is van toepassing op alle Cookies die op de Website worden gebruikt.

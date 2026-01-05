@@ -6,6 +6,8 @@ parent: Terms & Conditions
 nav_exclude: true
 ---
 
+# Privacybeleid
+
 ## Inleiding
 
 Dit privacybeleid ("Beleid") beschrijft hoe Tom Claus namens ZUPAH BV (0767.830.422) informatie verzamelt, gebruikt en deelt die u verstrekt wanneer u onze website bezoekt, onze diensten gebruikt of op andere wijze met ons communiceert (samen "Gebruikersgegevens"). Dit Beleid is van toepassing op alle Gebruikersgegevens die we verzamelen via de website.
