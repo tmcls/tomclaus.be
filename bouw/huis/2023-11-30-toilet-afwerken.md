@@ -4,6 +4,7 @@ date: 2023-11-30
 categories: 
   - "bouw-huis"
 coverImage: "IMG_0414-scaled.jpg"
+parent: Huis
 ---
 
 Het heeft bloed, zweet en tranen gekost – of toch op zijn minst maanden van wikken en wegen – voor we eindelijk de perfecte oplossing vonden voor ons wastafeltje op het toilet.

@@ -4,6 +4,7 @@ date: 2021-04-04
 categories: 
   - "bouw-huis"
 coverImage: "IMG_9495.jpg"
+parent: Huis
 ---
 
 Omdat we regelmatig de vraag krijgen welke materialen of leveranciers we specifiek gebruikt hebben, kan je hier en kort overzicht terugvinden:

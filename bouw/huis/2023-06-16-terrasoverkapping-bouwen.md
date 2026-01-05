@@ -4,6 +4,7 @@ date: 2023-06-16
 categories: 
   - "bouw-huis"
 coverImage: "IMG_2176-scaled.jpg"
+parent: Huis
 ---
 
 Ondertussen wonen we al enkele jaren in [ons huis](https://tomclaus.be/bouw/bouw-huis/verhuis-%f0%9f%8d%be/), maar hadden we nog niet de tijd (en zonnig weer) gehad om onze terrasoverkapping te bouwen.
