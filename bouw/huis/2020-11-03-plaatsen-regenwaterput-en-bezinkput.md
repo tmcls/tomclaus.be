@@ -7,6 +7,8 @@ coverImage: "IMG_4175.jpg"
 parent: Huis
 ---
 
+# Plaatsen regenwaterput en bezinkput
+
 Na al dat binnenwerken, hebben we vandaag nog eens buiten grondwerken gedaan. We hebben namelijk de waterput (10.000L) en bezinkput (2.500L) geplaatst.
 
 Doordat de aansluitingen met de straat niet zo diep zitten, moest de put op de exacte diepte zitten om nog verval te hebben tussen de straat, de waterput, maar ook de afvoeren achteraan het huis.

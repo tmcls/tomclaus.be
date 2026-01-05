@@ -7,6 +7,8 @@ coverImage: "IMG_2133.jpg"
 parent: Tuinhuis
 ---
 
+# Tuinhuis dakconstructie
+
 Het dak is opgebouwd uit timmerhout met daarop OSB platen.
 
 ## Materiaal

@@ -7,6 +7,8 @@ coverImage: "IMG_3049.jpg"
 parent: Huis
 ---
 
+# Een (zadel)dak boven ons hoofd
+
 Er is de afgelopen dagen (in de brandende zon en regen) hard gewerkt aan ons zadeldak.
 
 ![Afbeelding](/images/IMG_3003-1024x768.jpg)

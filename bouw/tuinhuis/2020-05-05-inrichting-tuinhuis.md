@@ -7,6 +7,8 @@ coverImage: "IMG_2424.jpg"
 parent: Tuinhuis
 ---
 
+# Inrichting tuinhuis
+
 Tijd om het tuinhuis eens wat verder in te richting. Naast een werkbank _(verhoogde bureau-tafel)_, zijn er ook verschillende rekken en kapstokken voorzien. Verder zijn er stopcontacten geplaatst en hangt de verlichting tegen het plafond.
 
 ![Afbeelding](/images/IMG_2425-1024x768.jpg)

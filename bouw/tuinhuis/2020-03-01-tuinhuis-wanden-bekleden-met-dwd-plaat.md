@@ -7,6 +7,8 @@ coverImage: "IMG_2205.jpg"
 parent: Tuinhuis
 ---
 
+# Tuinhuis wanden bekleden met DWD plaat
+
 Ondertussen zijn de DWD platen tegen het keperwerk geplaatst. Deze dampopenplaat is tegen de regen, maar kan toch het vocht uit het tuinhuis te krijgen.
 
 Onderaan komt een Trespa plint over de onderste houten constructie balk , alsook een stuk over het beton. Op die manier kan de balk geen water opnemen.

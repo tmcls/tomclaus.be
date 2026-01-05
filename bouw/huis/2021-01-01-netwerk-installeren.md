@@ -6,6 +6,8 @@ categories:
 coverImage: "IMG_4606.jpg"
 parent: Huis
 ---
+ 
+# Netwerk installeren
 
 Omdat ik in elke kamer minstens één netwerkkabel heb voorzien, er op centrale plaatseb een access-point komt, zelf onze deurbel een netwerk kabel nodig heeft,… komen er heel wat netwerkkabels samen in onze technische hoek. Hoogtijd dus om hier wat orde in te scheppen.
 

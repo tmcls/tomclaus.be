@@ -7,6 +7,8 @@ coverImage: "IMG_2051.jpg"
 parent: Tuinhuis
 ---
 
+# Tuinhuis bouwen - Fundering plaatsen
+
 Alvorens we starten met de bouw van ons huis willen we nog even een tuinhuis plaatsen. Het tuinhuis zal ongeveer 4m x 3m groot zijn een afgewerkt worden met ayous hout voor een moderne look.
 
 Het tuinhuis zal gebouwd worden op een betonplaat van 15cm dik, die 5cm boven het maaiveld uitkomt. Aan de randen van de betonplaats graven we een fundering-sluif (40cm breed) die tot op de gele-grond komt (40cm extra diep), dit is tegen het opvriezen van de betonplaats.

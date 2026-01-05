@@ -7,6 +7,8 @@ coverImage: "IMG_2137.jpg"
 parent: Tuinhuis
 ---
 
+# Tuinhuis dakbekleding plaatsen
+
 De dak is ondertussen bekleed met de EPDM rubber.
 
 ## Materiaal

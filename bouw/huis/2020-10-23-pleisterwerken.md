@@ -7,6 +7,8 @@ coverImage: "Jan_2.jpg"
 parent: Huis
 ---
 
+# Pleisterwerken
+
 De afgelopen maand is [Jan Martens](http://www.janmartenspleisterwerken.be/) ons huis komen pleisteren. Een prachtig resultaat en het huis ziet er alweer een beetje meer ‘af’ uit.
 
 ![Afbeelding](/images/IMG_3842-1-1024x768.jpg)

@@ -7,6 +7,8 @@ coverImage: "IMG_4234.jpg"
 parent: Huis
 ---
 
+# Afvoer buiten aansluiten
+
 De [afvoeren in huis](https://tomclaus.be/bouw/bouw-huis/afvoer-plaatsen/) waren al een tijdje geleden geplaatst. Maar nu ze vorige week ook [de regenwaterput zijn komen plaatsen](https://tomclaus.be/bouw/bouw-huis/plaatsen-regenwaterput-en-bezinkput/), konden we alles finaal aansluiten op de straat-riolering.
 
 Voor onze regenwaterput hebben we ook een extra terugslagklep en sifon geplaatst, want op straat is er nog geen gescheiden stelsel. En op deze manier vermijden we ongewenste ‘dingen’ en geuren in onze regenwaterput.

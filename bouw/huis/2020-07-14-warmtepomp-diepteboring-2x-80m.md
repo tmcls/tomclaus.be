@@ -7,6 +7,8 @@ coverImage: "IMG_3320.jpg"
 parent: Huis
 ---
 
+# Warmtepomp diepteboring (2x 80m)
+
 Gisteren is [Duratherm](https://www.duratherm.nl/), in opdracht van [Bart Meers BVBA](https://bartmeers.be/), de verticale boring van **2x 80m** komen doen in onze tuin. In deze gaten van 80m diep, zitten ‘sondes’ die aangesloten zullen worden op onze warmtepomp.
 
 De grootste uitdaging van deze boring was de machine in onze tuin krijgen. Met een zeer nipte doorgang aan elke zijde, moest deze langs onze gevel naar de achtertuin gereden worden.

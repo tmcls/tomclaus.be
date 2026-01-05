@@ -7,6 +7,8 @@ coverImage: "IMG_2667.jpg"
 parent: Huis
 ---
 
+# De gelijkvloers krijgt vorm
+
 Wat is er de afgelopen weken gebeurt? De kruipkelder is terug vlak aangevuld. De kimblokken zijn geplaatst, kolommen zijn gegoten en zijn alle binnenmuren zijn gemetseld.
 
 ![Afbeelding](/images/IMG_2587-1024x768.jpg)

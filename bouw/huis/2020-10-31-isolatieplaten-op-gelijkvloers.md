@@ -7,6 +7,8 @@ coverImage: "IMG_4113.jpg"
 parent: Huis
 ---
 
+# Isolatieplaten op gelijkvloers
+
 Op de gelijkvloers is een dikke maand geleden de [uitvulchape geplaatst](https://bouw.tomclaus.be/uitvulchape-gelijkvloers/) over onze leidingen. Afgelopen weekend hebben we op deze chape isolatie aangebracht.
 
 Doorheen de hele gelijkvloers zijn er gekozen voor PUR-platen van 10cm. In de garage XPS-platen van 10cm, omdat deze een betere druksterkte hebben om het gewicht van een auto beter kunnen dragen.

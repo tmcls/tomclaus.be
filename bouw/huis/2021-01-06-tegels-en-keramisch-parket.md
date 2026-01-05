@@ -7,6 +7,8 @@ coverImage: "IMG_4674.jpg"
 parent: Huis
 ---
 
+# Tegels en keramisch parket
+
 Enkele weken geleden is onze tegelplaatser gestart met het plaatsen van de tegels in onze garage. Deze kwam hij even tussendoor plaatseb, want een week later kwamen ze onze warmtepomp (op deze tegels) plaatsen.
 
 ## Garage

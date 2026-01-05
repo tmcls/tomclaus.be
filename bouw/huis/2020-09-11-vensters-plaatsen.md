@@ -7,6 +7,8 @@ coverImage: "IMG_3887-1.jpg"
 parent: Huis
 ---
 
+# Vensters plaatsen
+
 Deze week hebben we alle venster geplaatst, deze hebben we eerst van een ’tochtband’ voorzien om het zeker goed luchtdicht te krijgen. Na enkele dagen was ook het glas geleverd, waarna dit ook geplaatst kon worden.
 
 ![Afbeelding](/images/IMG_3556-768x1024.jpg)
