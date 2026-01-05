@@ -7,6 +7,8 @@ coverImage: "IMG_4923-scaled.jpg"
 parent: Huis
 ---
 
+# Inrichten badkamer
+
 Ondertussen zitten we in een fase dat alles wat door elkaar loopt. Want naast alle andere kamers in te richten, zijn we ook bezig met het inrichten van de badkamer.
 
 Enkel de spiegel ontbreekt nog, alsook enkel accessoires zoals kapstokken en onze handdoekhouder.

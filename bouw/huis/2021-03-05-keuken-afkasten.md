@@ -7,6 +7,8 @@ coverImage: "IMG_4964.jpg"
 parent: Huis
 ---
 
+# Keuken afkasten
+
 Boven onze keukenkasten was nog een ’nis’ van 25cm die we moesten afkasten. In deze afkasting hebben we 2 spotjes voorzien, alsook de voorzieningen voor inbouw luidsprekers in de toekomst.
 
 ![Afbeelding](/images/IMG_4790-1-1-1024x768.jpg)

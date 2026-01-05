@@ -7,6 +7,8 @@ coverImage: "IMG_2099.jpg"
 parent: Tuinhuis
 ---
 
+# Tuinhuis Contructie plaatsen
+
 De opbouw van het tuinhuis zal gebeuren in gewoon timmerhout en veel houtschroeven. Deze constructie is geplaatst op een EPDM rubber zodat er later geen vocht kan komen aan het hout.
 
 ## Materiaal

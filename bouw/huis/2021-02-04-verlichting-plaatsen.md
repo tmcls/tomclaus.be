@@ -7,6 +7,8 @@ coverImage: "IMG_4815.jpg"
 parent: Huis
 ---
 
+# Verlichting plaatsen
+
 Doorheen heel het huis maken we gebruik van zowel ledstrips, opbouwspots en inbouwspots.
 
 Deze week zijn we dan ook gestart met het ophangen en aansluiten van deze verschillende lampen.

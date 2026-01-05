@@ -7,6 +7,8 @@ coverImage: "IMG_2863.jpg"
 parent: Huis
 ---
 
+# Een verdieping hoger
+
 We zijn ondertussen enkele weken later en dus ook alweer een verdiep hoger! Het einde van de metselwerken is in zicht…
 
 ![Afbeelding](/images/IMG_2864-1024x768.jpg)

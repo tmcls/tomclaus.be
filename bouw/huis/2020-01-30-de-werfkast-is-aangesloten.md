@@ -7,6 +7,8 @@ coverImage: "IMG_1990.jpg"
 parent: Huis
 ---
 
+# De werfkast is aangesloten
+
 Om onze werf van elektriciteit te voorzien, hebben we een werfkast tweedehands gekocht. Deze is ondertussen gekeurd en aangesloten door Fluvius.
 
 ![Afbeelding](/images/IMG_1968-1024x768.jpg)

@@ -7,6 +7,8 @@ coverImage: "IMG_4144.jpg"
 parent: Huis
 ---
 
+# Isolatiechape
+
 De werken volgen elkaar goed op! Vrijdag waren nog de laatste pleisterwerken bezig en vandaag zijn ze de isolatiechape al komen plaatsen. Een werkje dat op een voormiddag afgerond was voor onze 2 verdiepingen.
 
 Deze isolatiechape is enkel op de verdiepingen geplaatst, want daar zaten we met een te hoge vloeropbouw door onze ventilatiebuizen en afvoeren. _(Beneden is er al een uitvulchape geplaatst waarop volgende week isolatieplaten plaatsen.)_

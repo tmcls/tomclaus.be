@@ -7,6 +7,8 @@ coverImage: "keuken-render-2.png"
 parent: Huis
 ---
 
+# De keuken is besteld
+
 De Batibouw condities waren _(door Corona)_ verlengd tot eind juni. Ideaal voor ons om nog even na te denken over onze keuken en de indeling ervan. Maar vandaag hebben we de knoop doorgehakt en de offerte ondertekend bij [Dovy Keukens](https://www.dovykeukens.be/).
 
 Dit zou de keuken moeten worden die binnen enkele maanden geplaatst zal worden:

@@ -7,6 +7,8 @@ coverImage: "IMG_3141.jpg"
 parent: Huis
 ---
 
+# Dakpannen leggen
+
 De dakwerker is ondertussen vertrokken. Om de kosten wat de drukken hadden we beslist bepaalde werken zoals het leggen van de dakpannen en installeren van de dakvensters voor eigen rekening te nemen.
 
 Vandaag hebben we dan maar ook samen met en hele bende vrienden de dakpannen gelegd op ons dak.

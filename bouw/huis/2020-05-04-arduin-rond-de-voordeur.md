@@ -7,6 +7,8 @@ coverImage: "IMG_2848.jpg"
 parent: Huis
 ---
 
+# Arduin rond de voordeur
+
 Vandaag heeft de aannemer de arduin rond onze toekomstige voordeur geplaatst. Het gaat hier om een strakke deuromlijsting van Belgische blauwsteen.
 
 ![Afbeelding](/images/IMG_2819-1024x768.jpg)

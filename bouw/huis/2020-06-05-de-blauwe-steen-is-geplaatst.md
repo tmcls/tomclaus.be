@@ -7,6 +7,8 @@ coverImage: "IMG_3045.jpg"
 parent: Huis
 ---
 
+# De 'blauwe steen' is geplaatst
+
 Vandaag is onze Belgische blauwsteen voor de vensters en garagepoort geleverd en geplaatst door de aannemer.
 
 ![Afbeelding](/images/IMG_3043-1024x768.jpg)

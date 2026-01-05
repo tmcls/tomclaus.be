@@ -7,6 +7,8 @@ coverImage: "IMG_2419.jpg"
 parent: Huis
 ---
 
+# De boom is gekapt
+
 Zeer onverwacht is deze week de boom in het midden van ons perceel toch gekapt door de gemeente (dit in Corona tijden).
 
 Doordat deze boom nu weg is moesten we ook onze werfkast naar de zijkant van het perceel verhuizen.

@@ -7,6 +7,8 @@ coverImage: "IMG_4927.jpg"
 parent: Huis
 ---
 
+# Verfwerken
+
 Afgelopen week zijn we gestart met de verfwerken. Bijna de volledige bovenverdieping, keuken en berging zijn al gereed.
 
 ## Grondlaag

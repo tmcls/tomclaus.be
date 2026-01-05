@@ -7,6 +7,8 @@ coverImage: "IMG_2319.jpg"
 parent: Huis
 ---
 
+# Grondwater... dus droogzuiging
+
 Afgelopen week kwam onze aannemer met het verlossende telefoontje, dat hij binnen 4 weken gaat starten met de bouwwerken. Dus snel nog enkele laatste dingen regelen en dan starten maar!
 
 Omdat het nu toch al enkele weken aan het regen was, had ik afgelopen zondag nog snel even de grondwaterstand gecontroleerd. Een beslissing die ik beter enkele weken eerder had genomen. Blijkt dat het grondwater maar 60cm onder het maaiveld staat.

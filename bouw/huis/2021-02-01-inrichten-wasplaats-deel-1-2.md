@@ -7,6 +7,8 @@ coverImage: "IMG_4758.jpg"
 parent: Huis
 ---
 
+# Inrichten wasplaats (deel 1/2)
+
 Ondertussen zijn we ook gestart met de inrichting van de wasplaats (op de 1st verdieping). Deze is volledig ingericht met IKEA METOD kasten. Inclusief werkblad om de was te vouwen, wasmachine verhoger en spoelbak als extra.
 
 ## Wasmachine verhoger

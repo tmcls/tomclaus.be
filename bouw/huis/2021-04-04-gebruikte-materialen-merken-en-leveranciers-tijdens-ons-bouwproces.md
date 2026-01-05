@@ -7,6 +7,8 @@ coverImage: "IMG_9495.jpg"
 parent: Huis
 ---
 
+# Gebruikte materialen, merken en leveranciers tijdens ons bouwproces.
+
 Omdat we regelmatig de vraag krijgen welke materialen of leveranciers we specifiek gebruikt hebben, kan je hier en kort overzicht terugvinden:
 
 ## Gevelstenen

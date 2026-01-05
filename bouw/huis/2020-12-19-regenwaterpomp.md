@@ -7,6 +7,8 @@ coverImage: "IMG_4484.jpg"
 parent: Huis
 ---
 
+# Regenwaterpomp
+
 Het heeft goed geregend de laatste dagen, hoogtijd dus om de regenwaterpomp aan te sluiten op onze put.
 
 We hebben gekozen voor de [DAB E.Sybox Mini³](https://www.verwarming-shop-online.be/DAB-E.Sybox-Mini%C2%B3-Hydrofoorpomp-/-Drukverhoger) waterpomp. Deze is frequentiegestuurde pomp maakt minder kabaal en is ook beter voor ons stroomverbruik.

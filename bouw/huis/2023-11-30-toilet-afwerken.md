@@ -7,6 +7,8 @@ coverImage: "IMG_0414-scaled.jpg"
 parent: Huis
 ---
 
+# Maanden puzzelen voor het perfecte wastafeltje op het toilet
+
 Het heeft bloed, zweet en tranen gekost – of toch op zijn minst maanden van wikken en wegen – voor we eindelijk de perfecte oplossing vonden voor ons wastafeltje op het toilet.
 
 Het probleem? De afvoer en watertoevoer waren voorzien op de lange muur, wat betekende dat je met je knie tegen de wastafel botste als je op het toilet zat. Bovendien was er geen plaats voor een zeepje.

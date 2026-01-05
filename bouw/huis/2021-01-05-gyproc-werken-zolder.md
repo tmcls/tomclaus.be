@@ -7,6 +7,8 @@ coverImage: "IMG_4522.jpg"
 parent: Huis
 ---
 
+# Gyproc werken zolder
+
 Op onze zolder komt er tegen het dak gebinten een Gyproc afwerken. Hiervoor zijn we dit weekend gestart met het uitvullen van alle balken zodat dit mooi recht is alvorens we Gyproc kunnen plaatsen.
 
 ![Afbeelding](/images/IMG_4444-1024x768.jpg)

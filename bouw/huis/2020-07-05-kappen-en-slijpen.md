@@ -7,6 +7,8 @@ coverImage: "IMG_3236.jpg"
 parent: Huis
 ---
 
+# Kappen en slijpen
+
 Afgelopen week, was een weekje van het aftekenen, uitslijpen en uitkappen van onze leidingen voor elektriciteit en afvoeren.
 
 ![Afbeelding](/images/IMG_3247-1024x768.jpg)

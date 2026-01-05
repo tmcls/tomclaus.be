@@ -7,6 +7,8 @@ coverImage: "IMG_2787.jpg"
 parent: Huis
 ---
 
+# Welfsels op de gelijkvloers
+
 Vandaag zijn de welfsels geplaatst en voorzien van de druklaag. Verder is ook nog de trap bekist en gegoten.
 
 ![Afbeelding](/images/IMG_2755-1024x768.jpg)

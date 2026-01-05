@@ -7,6 +7,8 @@ coverImage: "IMG_2435.jpg"
 parent: Huis
 ---
 
+# Uitgraven kruipkelder
+
 Vandaag is onze kruipkelder uitgegraven door de grondwerker. Een heel precisie werk om er een mooi biljartlaken van te maken.
 
 ![Afbeelding](/images/IMG_2435-1024x768.jpg)

@@ -7,6 +7,8 @@ coverImage: "IMG_3284-1.jpg"
 parent: Huis
 ---
 
+# Dakvenster plaatsen
+
 Begin deze week hebben we onze handen vol gehad met het plaatsen van 2 Velux dakvensters (GGU SK08 0066). Deze waren telkens 140cm x 114xm, dus een heel gewicht (75kg) om in het dak te krijgen….
 
 ![Afbeelding](/images/IMG_3269-1024x768.jpg)

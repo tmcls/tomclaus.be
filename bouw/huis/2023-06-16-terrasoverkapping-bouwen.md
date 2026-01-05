@@ -7,6 +7,8 @@ coverImage: "IMG_2176-scaled.jpg"
 parent: Huis
 ---
 
+# Terrasoverkapping bouwen
+
 Ondertussen wonen we al enkele jaren in [ons huis](https://tomclaus.be/bouw/bouw-huis/verhuis-%f0%9f%8d%be/), maar hadden we nog niet de tijd (en zonnig weer) gehad om onze terrasoverkapping te bouwen.
 
 De bedoeling is om een terasoverkapping te hebben zodat we met droge voeten onze keuken binnen kunnen. Verder geeft dit ons de mogelijkheid om ten alle tijden droog of net uit de zon buiten te kunnen zitten. De terrasoverkapping is voorzien van inbouw Sonos luidspreker, twee grote screens, spotjes en ledverlichting aan de zijkanten.

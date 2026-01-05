@@ -7,6 +7,8 @@ coverImage: "IMG_4928.jpg"
 parent: Huis
 ---
 
+# De keuken is geplaatst
+
 De afgelopen 2 dagen is Dovy Keukens ze onze keuken komen plaatsen.
 
 We [hebben gekozen](https://tomclaus.be/bouw/bouw-huis/de-keuken-is-besteld/) voor een half glanzende witte kastenwand met zwart werkblad. Hierin zit dan ook onze spoelbak. In ons keukeneiland, dat afgewerkt is met lichte eik kleuren en zwart werkblad, zit dan onze kookplaat met recirculatie dampkap.

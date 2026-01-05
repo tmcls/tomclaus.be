@@ -7,6 +7,8 @@ coverImage: "IMG_3636.jpg"
 parent: Huis
 ---
 
+# Zonnepanelen op het dak
+
 Vandaag zijn de zonnepanelen op ons dak geplaatst. 28 stuks van 315Wp, goed voor 8,8kWp. Voor de omvormer is gekozen voor de Fronius Symo 6.0-3-M, een 6 kW omvormer.
 
 ![Afbeelding](/images/IMG_3625-1024x768.jpg)

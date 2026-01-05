@@ -7,6 +7,8 @@ coverImage: "IMG_2468.jpg"
 parent: Huis
 ---
 
+# Vloerplaat kruipkelder
+
 Vandaag is de vloerplaat voor de kruipkelder gegoten. Eén betonpomp, 5 betonmixers en heel wat bezoekers later is dit het resultaat.
 
 ![Afbeelding](/images/IMG_2463-1024x768.jpg)

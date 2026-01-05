@@ -7,6 +7,8 @@ coverImage: "IMG_3499.jpg"
 parent: Huis
 ---
 
+# Waterleiding plaatsen
+
 Het afgelopen weekend hebben we de Alpex geplaatst voor alle onze water-toevoeren. Elke leiding gaat apart tot aan de collector in de garage, dus geen aftakking in mijn chape. :-)
 
 Voor de douche en het bad hebben we een 20mm Alpex voorzien. Alle overige leiding zijn voorzien in Alpex van 16mm. Verder is er ook de waterleiding geplaatst voor het regenwater tot aan de toiletten en het wasmachine.

@@ -7,6 +7,8 @@ coverImage: "IMG_4051-1.jpg"
 parent: Huis
 ---
 
+# De garagepoort en voordeur zijn geplaatst
+
 Vandaag is All-Port onze garagepoort en voordeur komen plaatsen. Volledig afgewerkt in Afromosia met een Rubio Natural beits
 
 ![Afbeelding](/images/IMG_4051-1-1024x768.jpg)

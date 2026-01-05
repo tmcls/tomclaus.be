@@ -7,6 +7,8 @@ coverImage: "IMG_3418.jpg"
 parent: Huis
 ---
 
+# Afvoer plaatsen
+
 We hebben afgelopen weekend doorgebracht in de kruipkelder. Daar moesten namelijk alle afvoeren nog geplaatst worden. Verder is ook de afvoer in de badkamer, wasplaats,… geplaatst. Nu enkel buiten nog alles aansluiten.
 
 ![Afbeelding](/images/IMG_3360-1024x768.jpg)

@@ -7,6 +7,8 @@ coverImage: "IMG_4343.jpg"
 parent: Huis
 ---
 
+# Afwerkingschape
+
 Onze chapper heeft afgelopen weekend de afwerkingschape geplaatst doorheen ons huis. We hebben gekozen voor vezelchape van tussen de 6 a 8cm.
 
 ![Afbeelding](/images/IMG_4307-1024x768.jpg)

@@ -7,6 +7,8 @@ coverImage: "bouwplan_ruwbouw.jpg"
 parent: Huis
 ---
 
+# Het Bouwplan is finaal
+
 Ons bouwplan is finaal. Alsook heeft onze architect enkele 3D renders gemaakt van onze toekomstige woning. Bij deze deel ik deze graag met jullie:
 
 ![Afbeelding](/images/bouwplan_ruwbouw_3D_achterkant.jpg)

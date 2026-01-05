@@ -7,6 +7,8 @@ coverImage: "IMG_4942-scaled.jpg"
 parent: Huis
 ---
 
+# Binnendeuren
+
 Vorige week zijn ze onze binnendeuren komen plaatsen. We hebben gekozen voor de [Deco Door van Decotrap](https://decotrap.be/binnendeuren/deco-door/), alsook gewone deuren met smal profiel.
 
 Afgelopen dagen zijn ze de deuren dan nog komen aflakken en afwerken. :-)

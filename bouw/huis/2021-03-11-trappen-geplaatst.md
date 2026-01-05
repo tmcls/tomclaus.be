@@ -7,6 +7,8 @@ coverImage: "IMG_5013-scaled.jpg"
 parent: Huis
 ---
 
+# Trappen geplaatst
+
 Afgelopen dagen is de schrijnwerker bezig geweest met het bekleden van onze 2 trappen.
 
 ## Betontrap historiek

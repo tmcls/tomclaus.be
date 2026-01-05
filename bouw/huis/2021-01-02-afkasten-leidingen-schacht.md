@@ -7,6 +7,8 @@ coverImage: "IMG_4541.jpg"
 parent: Huis
 ---
 
+# Afkasten leidingen schacht
+
 In één van de slaapkamers is er een schacht die van zolder tot de garage voorzien is voor leidingen te plaatsen. Dit weekend hebben we deze kast uitgevuld met houten balken zodat we hiertegen Gyproc kunnen plaatsen.
 
 Omdat we hier graag een bed tegen willen plaatsen, hebben we de afkasting doorgetrokken tot in de linker-hoek. De afkasting doortrekken over de gehele breedte was helaas geen optie omdat aan de rechter kant een venster staat.
