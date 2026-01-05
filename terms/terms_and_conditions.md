@@ -2,6 +2,8 @@
 layout: page
 title: Algemene voorwaarden
 permalink: /terms_and_conditions/
+parent: Terms & Conditions
+nav_order: 3
 ---
 
 ## 1\. Identiteit van de onderneming

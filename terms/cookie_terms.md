@@ -2,6 +2,8 @@
 layout: page
 title: Cookiebeleid
 permalink: /cookie-policy/
+parent: Terms & Conditions
+nav_order: 3
 ---
 
 ## **Inleiding**

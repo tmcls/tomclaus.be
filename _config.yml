@@ -137,7 +137,7 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: 'Copyright &copy; 2021-2026 Tom Claus &amp; ZUPAH BV | Copyright &copy; 2017-2026 Patrick Marsceill and Just the Docs contributors <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a>'
+footer_content: 'Copyright &copy; 2021-2026 Tom Claus &amp; ZUPAH BV.'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -177,7 +177,6 @@ callouts:
 # Note: the main Just the Docs site does *not* use Google Analytics.
 # ga_tracking: UA-2709176-10,G-5FG1HLH3XQ
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
 
 kramdown:
   syntax_highlighter_opts:

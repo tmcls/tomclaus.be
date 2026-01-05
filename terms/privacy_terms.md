@@ -2,6 +2,8 @@
 layout: page
 title: Privacybeleid
 permalink: /privacy-policy/
+parent: Terms & Conditions
+nav_order: 3
 ---
 
 ## Inleiding
