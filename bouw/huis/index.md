@@ -5,3 +5,5 @@ parent: Bouw
 ---
 
 # Huis
+
+Een overzicht van onze bouwwerken aan ons huis.
