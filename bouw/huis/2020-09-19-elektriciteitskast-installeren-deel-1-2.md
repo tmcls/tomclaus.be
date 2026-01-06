@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3547.jpg"
 parent: Huis
+nav_order: 33
 ---
 
 # Elektriciteitskast installeren - Deel 1/2

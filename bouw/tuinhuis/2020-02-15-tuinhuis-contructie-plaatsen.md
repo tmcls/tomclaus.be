@@ -5,6 +5,7 @@ categories:
   - "bouw-tuinhuis"
 coverImage: "IMG_2099.jpg"
 parent: Tuinhuis
+nav_order: 2
 ---
 
 # Tuinhuis Contructie plaatsen

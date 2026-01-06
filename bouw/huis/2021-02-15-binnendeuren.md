@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4942-scaled.jpg"
 parent: Huis
+nav_order: 57
 ---
 
 # Binnendeuren

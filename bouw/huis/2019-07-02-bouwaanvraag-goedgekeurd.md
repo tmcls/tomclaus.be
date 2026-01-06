@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_0430.jpg"
 parent: Huis
+nav_order: 2
 ---
 
 # Bouwaanvraag goedgekeurd

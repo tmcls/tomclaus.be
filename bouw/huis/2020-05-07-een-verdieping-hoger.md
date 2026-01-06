@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2863.jpg"
 parent: Huis
+nav_order: 13
 ---
 
 # Een verdieping hoger

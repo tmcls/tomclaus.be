@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "Jan_2.jpg"
 parent: Huis
+nav_order: 34
 ---
 
 # Pleisterwerken

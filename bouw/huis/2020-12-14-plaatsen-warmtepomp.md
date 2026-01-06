@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4454.jpg"
 parent: Huis
+nav_order: 45
 ---
 
 # Plaatsen warmtepomp

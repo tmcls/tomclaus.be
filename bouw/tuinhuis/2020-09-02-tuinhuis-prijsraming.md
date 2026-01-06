@@ -5,6 +5,7 @@ categories:
   - "bouw-tuinhuis"
 coverImage: "IMG_2880.jpg"
 parent: Tuinhuis
+nav_order: 8
 ---
 
 # Zelfbouw tuinhuis prijsraming

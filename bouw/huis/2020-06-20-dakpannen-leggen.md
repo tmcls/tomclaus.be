@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3141.jpg"
 parent: Huis
+nav_order: 18
 ---
 
 # Dakpannen leggen

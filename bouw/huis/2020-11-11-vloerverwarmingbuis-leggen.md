@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4205.jpg"
 parent: Huis
+nav_order: 40
 ---
 
 # Vloerverwarmingbuis leggen

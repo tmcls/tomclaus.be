@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3418.jpg"
 parent: Huis
+nav_order: 23
 ---
 
 # Afvoer plaatsen

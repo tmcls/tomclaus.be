@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4815.jpg"
 parent: Huis
+nav_order: 55
 ---
 
 # Verlichting plaatsen

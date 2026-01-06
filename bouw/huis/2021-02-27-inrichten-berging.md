@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4966-scaled.jpg"
 parent: Huis
+nav_order: 58
 ---
 
 # Inrichten berging

@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4927.jpg"
 parent: Huis
+nav_order: 52
 ---
 
 # Verfwerken

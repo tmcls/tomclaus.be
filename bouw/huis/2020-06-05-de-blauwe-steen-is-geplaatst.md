@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3045.jpg"
 parent: Huis
+nav_order: 16
 ---
 
 # De 'blauwe steen' is geplaatst

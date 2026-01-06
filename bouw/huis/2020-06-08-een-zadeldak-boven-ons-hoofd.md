@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3049.jpg"
 parent: Huis
+nav_order: 17
 ---
 
 # Een (zadel)dak boven ons hoofd

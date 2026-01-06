@@ -5,6 +5,7 @@ categories:
   - "bouw-tuinhuis"
 coverImage: "IMG_2743.jpg"
 parent: Tuinhuis
+nav_order: 6
 ---
 
 # Tuinhuis bekleden met Ayous

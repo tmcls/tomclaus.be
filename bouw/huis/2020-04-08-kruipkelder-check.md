@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2517.jpg"
 parent: Huis
+nav_order: 8
 ---
 
 # Kruipkelder, check!

@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_5032.jpg"
 parent: Huis
+nav_order: 64
 ---
 
 # Keuring elektriciteit

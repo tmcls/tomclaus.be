@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4144.jpg"
 parent: Huis
+nav_order: 35
 ---
 
 # Isolatiechape

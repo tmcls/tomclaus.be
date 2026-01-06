@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4051-1.jpg"
 parent: Huis
+nav_order: 32
 ---
 
 # De garagepoort en voordeur zijn geplaatst

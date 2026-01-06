@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "bouwplan_ruwbouw.jpg"
 parent: Huis
+nav_order: 1
 ---
 
 # Het Bouwplan is finaal

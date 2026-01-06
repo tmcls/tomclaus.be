@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2667.jpg"
 parent: Huis
+nav_order: 9
 ---
 
 # De gelijkvloers krijgt vorm

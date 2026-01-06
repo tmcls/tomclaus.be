@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "keuken-render-2.png"
 parent: Huis
+nav_order: 19
 ---
 
 # De keuken is besteld

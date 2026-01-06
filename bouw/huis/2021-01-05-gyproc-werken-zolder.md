@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4522.jpg"
 parent: Huis
+nav_order: 50
 ---
 
 # Gyproc werken zolder

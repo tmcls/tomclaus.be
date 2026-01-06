@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4964.jpg"
 parent: Huis
+nav_order: 60
 ---
 
 # Keuken afkasten

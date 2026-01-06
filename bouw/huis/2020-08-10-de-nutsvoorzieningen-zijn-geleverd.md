@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3354.jpg"
 parent: Huis
+nav_order: 25
 ---
 
 # De nutsvoorzieningen zijn 'geleverd'

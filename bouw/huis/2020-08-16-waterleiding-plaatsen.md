@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3499.jpg"
 parent: Huis
+nav_order: 26
 ---
 
 # Waterleiding plaatsen

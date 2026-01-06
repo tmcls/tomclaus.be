@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2989.jpg"
 parent: Huis
+nav_order: 15
 ---
 
 # De bureau & zolder verdieping

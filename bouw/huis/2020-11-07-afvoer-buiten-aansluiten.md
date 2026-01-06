@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4234.jpg"
 parent: Huis
+nav_order: 39
 ---
 
 # Afvoer buiten aansluiten

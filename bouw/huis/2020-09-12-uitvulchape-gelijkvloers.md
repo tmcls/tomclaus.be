@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3712.jpg"
 parent: Huis
+nav_order: 31
 ---
 
 # Uitvulchape gelijkvloers

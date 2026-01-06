@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3284-1.jpg"
 parent: Huis
+nav_order: 21
 ---
 
 # Dakvenster plaatsen

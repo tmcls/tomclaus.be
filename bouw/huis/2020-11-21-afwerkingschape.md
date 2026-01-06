@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4343.jpg"
 parent: Huis
+nav_order: 41
 ---
 
 # Afwerkingschape

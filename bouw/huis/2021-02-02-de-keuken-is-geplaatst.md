@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4928.jpg"
 parent: Huis
+nav_order: 54
 ---
 
 # De keuken is geplaatst

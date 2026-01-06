@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3528-2.jpg"
 parent: Huis
+nav_order: 67
 ---
 
 # Keuring water

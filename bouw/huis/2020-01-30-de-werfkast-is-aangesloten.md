@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_1990.jpg"
 parent: Huis
+nav_order: 3
 ---
 
 # De werfkast is aangesloten

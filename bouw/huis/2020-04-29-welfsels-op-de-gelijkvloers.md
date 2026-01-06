@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2787.jpg"
 parent: Huis
+nav_order: 10
 ---
 
 # Welfsels op de gelijkvloers

@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_9495.jpg"
 parent: Huis
+nav_order: 69
 ---
 
 # Gebruikte materialen, merken en leveranciers tijdens ons bouwproces.

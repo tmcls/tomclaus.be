@@ -5,6 +5,7 @@ categories:
   - "bouw-tuinhuis"
 coverImage: "IMG_2205.jpg"
 parent: Tuinhuis
+nav_order: 5
 ---
 
 # Tuinhuis wanden bekleden met DWD plaat

@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2848.jpg"
 parent: Huis
+nav_order: 12
 ---
 
 # Arduin rond de voordeur

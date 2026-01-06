@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_5013-scaled.jpg"
 parent: Huis
+nav_order: 62
 ---
 
 # Trappen geplaatst

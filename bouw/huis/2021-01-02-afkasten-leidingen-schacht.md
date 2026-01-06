@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4541.jpg"
 parent: Huis
+nav_order: 49
 ---
 
 # Afkasten leidingen schacht

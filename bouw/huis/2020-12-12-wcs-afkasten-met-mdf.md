@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4430.jpg"
 parent: Huis
+nav_order: 44
 ---
 
 # WC's afkasten met MDF

@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4674.jpg"
 parent: Huis
+nav_order: 51
 ---
 
 # Tegels en keramisch parket

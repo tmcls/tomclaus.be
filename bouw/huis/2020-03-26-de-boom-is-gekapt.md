@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2419.jpg"
 parent: Huis
+nav_order: 5
 ---
 
 # De boom is gekapt

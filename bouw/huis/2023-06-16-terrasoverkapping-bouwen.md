@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2176-scaled.jpg"
 parent: Huis
+nav_order: 70
 ---
 
 # Terrasoverkapping bouwen

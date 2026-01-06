@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2468.jpg"
 parent: Huis
+nav_order: 7
 ---
 
 # Vloerplaat kruipkelder

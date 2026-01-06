@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2435.jpg"
 parent: Huis
+nav_order: 6
 ---
 
 # Uitgraven kruipkelder

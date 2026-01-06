@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3320.jpg"
 parent: Huis
+nav_order: 22
 ---
 
 # Warmtepomp diepteboring (2x 80m)

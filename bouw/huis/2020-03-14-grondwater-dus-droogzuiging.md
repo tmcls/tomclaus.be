@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2319.jpg"
 parent: Huis
+nav_order: 4
 ---
 
 # Grondwater... dus droogzuiging

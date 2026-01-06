@@ -5,6 +5,7 @@ categories:
   - "bouw-tuinhuis"
 coverImage: "IMG_2051.jpg"
 parent: Tuinhuis
+nav_order: 1
 ---
 
 # Tuinhuis bouwen - Fundering plaatsen

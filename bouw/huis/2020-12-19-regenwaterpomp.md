@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4484.jpg"
 parent: Huis
+nav_order: 47
 ---
 
 # Regenwaterpomp

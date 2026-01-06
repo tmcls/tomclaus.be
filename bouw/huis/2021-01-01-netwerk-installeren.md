@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4606.jpg"
 parent: Huis
+nav_order: 48
 ---
  
 # Netwerk installeren

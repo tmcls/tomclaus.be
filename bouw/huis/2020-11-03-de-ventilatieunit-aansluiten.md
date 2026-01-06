@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4183.jpg"
 parent: Huis
+nav_order: 37
 ---
 
 # De ventilatieunit aansluiten

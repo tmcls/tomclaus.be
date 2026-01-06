@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3887-1.jpg"
 parent: Huis
+nav_order: 30
 ---
 
 # Vensters plaatsen

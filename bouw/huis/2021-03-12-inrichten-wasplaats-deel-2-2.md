@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_5042-scaled.jpg"
 parent: Huis
+nav_order: 63
 ---
 
 # Inrichten wasplaats (deel 2/2)

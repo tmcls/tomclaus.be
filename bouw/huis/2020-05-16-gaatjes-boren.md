@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2954.jpg"
 parent: Huis
+nav_order: 14
 ---
 
 # Gaatjes boren

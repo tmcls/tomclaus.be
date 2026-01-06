@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4923-scaled.jpg"
 parent: Huis
+nav_order: 56
 ---
 
 # Inrichten badkamer

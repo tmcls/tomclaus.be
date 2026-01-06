@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4433.jpg"
 parent: Huis
+nav_order: 42
 ---
 
 # Douchebak geplaatst

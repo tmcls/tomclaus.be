@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3236.jpg"
 parent: Huis
+nav_order: 20
 ---
 
 # Kappen en slijpen

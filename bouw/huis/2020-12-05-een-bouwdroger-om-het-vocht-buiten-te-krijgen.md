@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_4412.jpg"
 parent: Huis
+nav_order: 43
 ---
 
 # Een bouwdroger om het vocht buiten te krijgen

@@ -5,6 +5,7 @@ categories:
   - "bouw-tuinhuis"
 coverImage: "IMG_2137.jpg"
 parent: Tuinhuis
+nav_order: 4
 ---
 
 # Tuinhuis dakbekleding plaatsen

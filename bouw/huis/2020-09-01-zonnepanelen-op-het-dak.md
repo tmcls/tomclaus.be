@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_3636.jpg"
 parent: Huis
+nav_order: 28
 ---
 
 # Zonnepanelen op het dak

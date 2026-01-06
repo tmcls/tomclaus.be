@@ -5,6 +5,7 @@ categories:
   - "bouw-huis"
 coverImage: "IMG_2846.jpg"
 parent: Huis
+nav_order: 11
 ---
 
 # Gevelstenen #1
