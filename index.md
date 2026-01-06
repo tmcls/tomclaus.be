@@ -46,8 +46,7 @@ efficiëntere en duurzamere oplossingen te realiseren.
 Heb je vragen of wil je graag van gedachten wisselen? Dan kan je
 [mij altijd contacteren](mailto:mail@tomclaus.be).
 
-## Contactgegevens
-
+**Contactgegevens:**
 ZUPAH BV
 Lutselusstraat 129  
 3590 Diepenbeek  
