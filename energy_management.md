@@ -16,11 +16,9 @@ Door de batterijopslag en de zonnepanelenomvormers te ontkoppelen, kunnen we de 
 
 Het gaat om een 48V-batterijsysteem dat volledig functioneert met drie omvormers van telkens 3 kW per fase. Deze complete installatie maakt het mogelijk om de opgewekte energie van onze zonnepanelen op te slaan en te gebruiken tijdens de avond, nacht en ochtend. Bovendien stelt het systeem ons in staat om volledig off-grid te gaan bij een stroomonderbreking.
 
-![Huis](/images/045751bc-96b0-bb14-1536-3cafab5eb2bb-2.jpeg){: width="450" }
-
-![Batterij](/images/IMG_4278-1024x768.jpg){: width="450" }
-
-![Batterij ](/images/IMG_4269-1024x768.jpg){: width="450" }
+![Huis](/images/045751bc-96b0-bb14-1536-3cafab5eb2bb-2.jpeg){: width="300" }
+![Batterij](/images/IMG_4278-1024x768.jpg){: width="300" }
+![Batterij ](/images/IMG_4269-1024x768.jpg){: width="300" }
 
 ## Grootverbruikers
 
