@@ -16,9 +16,9 @@ Door de batterijopslag en de zonnepanelenomvormers te ontkoppelen, kunnen we de 
 
 Het gaat om een 48V-batterijsysteem dat volledig functioneert met drie omvormers van telkens 3 kW per fase. Deze complete installatie maakt het mogelijk om de opgewekte energie van onze zonnepanelen op te slaan en te gebruiken tijdens de avond, nacht en ochtend. Bovendien stelt het systeem ons in staat om volledig off-grid te gaan bij een stroomonderbreking.
 
-![Huis](/images/045751bc-96b0-bb14-1536-3cafab5eb2bb-2.jpeg){: width="300" }
-![Batterij](/images/IMG_4278-1024x768.jpg){: width="300" }
-![Batterij ](/images/IMG_4269-1024x768.jpg){: width="300" }
+![Huis](/images/045751bc-96b0-bb14-1536-3cafab5eb2bb-2.jpeg){: width="230" }
+![Batterij](/images/IMG_4278-1024x768.jpg){: width="230" }
+![Batterij ](/images/IMG_4269-1024x768.jpg){: width="230" }
 
 ## Grootverbruikers
 
@@ -33,11 +33,9 @@ Doordat we ook over twee elektische wagens beschikken (Skoda Enyaq iV 80 / Opel 
 
 - **Kookplaat**: Bora Pure
 
-![Warmptepomp](/images/IMG_4454-1024x768.jpg)
-
-![Elektriciteitskast](/images/IMG_3547-1024x768.jpg)
-
-![Laadpaal](/images/IMG_7105-edited.jpg)
+![Warmptepomp](/images/IMG_4454-1024x768.jpg){: width="230" }
+![Elektriciteitskast](/images/IMG_3547-1024x768.jpg){: width="230" }
+![Laadpaal](/images/IMG_7105-edited.jpg){: width="230" }
 
 ## Energie Management
 
@@ -61,7 +59,7 @@ Ons energiesysteem beschikt over een geautomatiseerd dataloggingproces dat diepg
 
 Dankzij deze gestructureerde aanpak kunnen we complexe verbruikspatronen identificeren en proactief optimalisaties doorvoeren om de energie-efficiëntie te verhogen. De Node-RED-flow is zo ontworpen dat ze de normale werking van het systeem niet beïnvloedt, maar enkel actief wordt bij wijzigingen of updates.
 
-![Grafana](/images/Screenshot-2024-02-18-at-13.07.18-1024x505.png){: width="250" }
+![Grafana](/images/Screenshot-2024-02-18-at-13.07.18-1024x505.png)
 
 ### PVOutput
 
@@ -69,7 +67,7 @@ Verder maken we constant gebruik van PVOutput.org om onze verbruiks en PV-data n
 
 Onze zonnepanelen-data is publiekelijk te raadplegen op [https://PVOutput.org/list.jsp?sid=96143](https://pvoutput.org/list.jsp?sid=96143).
 
-![PVOutput](images/Screenshot-2023-10-17-at-14.58.53.png){: width="250" }
+![PVOutput](images/Screenshot-2023-10-17-at-14.58.53.png)
 
 ## Dynamisch Energietarief
 
