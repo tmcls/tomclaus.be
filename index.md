@@ -6,6 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: "Home"
+nav_order: 1
+nav_exclude: false
 ---
 
 # Tom Claus | ZUPAH BV
