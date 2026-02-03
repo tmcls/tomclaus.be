@@ -50,7 +50,7 @@ Heb je vragen of wil je graag van gedachten wisselen? Dan kan je
 [mij altijd contacteren](mailto:mail@tomclaus.be).
 
 **Contactgegevens:**
-ZUPAH BV
+ZUPAH BV  
 Lutselusstraat 129  
 3590 Diepenbeek  
 België  
