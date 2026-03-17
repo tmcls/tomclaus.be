@@ -4,5 +4,13 @@
   "compatibility_date": "2026-03-17",
   "assets": {
     "directory": "./_site"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "blog.tomclaus.be",
+      "custom_domain": true
+    }
+  ]
 }
+
+
